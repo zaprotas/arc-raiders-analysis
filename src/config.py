@@ -33,3 +33,15 @@ GAMES = {
     553850: ("HELLDIVERS 2", "reference_pve"),
     275850: ("No Man's Sky", "reference_updates"),
 }
+
+# Mês de estreia na Steam (0 = mês de lançamento). Alinha os ciclos de vida.
+# Observações: Apex chegou à Steam em 2020, já gratuito e lançado em outra loja;
+# Tarkov chegou à Steam em nov/2025 (o jogo existe desde 2016); CS2 herda o
+# histórico do CS:GO (2012) e fica fora das comparações de ciclo de vida.
+STEAM_LAUNCH = {
+    1808500: "2025-10", 3932890: "2025-11", 594650: "2018-02", 3065800: "2026-03",
+    2016590: "2024-06", 868270: "2022-06", 2479810: "2024-04", 2507950: "2024-12",
+    1172470: "2020-11", 578080: "2017-03", 2807960: "2025-10", 359550: "2015-12",
+    553850: "2024-02", 275850: "2016-08",
+}
+LIFECYCLE_EXCLUDE = {730, 1172470, 3932890}  # sem lançamento comparável na Steam

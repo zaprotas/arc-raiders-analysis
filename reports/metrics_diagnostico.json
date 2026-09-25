@@ -1,0 +1,167 @@
+{
+  "posicionamento": {
+    "Pico de jogadores nos 3 primeiros meses (Steam)": {
+      "arc": 465097.0,
+      "posicao": 2,
+      "de": 11
+    },
+    "Análises positivas na Steam (%)": {
+      "arc": 81.78442852380141,
+      "posicao": 3,
+      "de": 14
+    },
+    "Horas assistidas na Twitch no mês de lançamento e no seguinte": {
+      "arc": 100100000.0,
+      "posicao": 2,
+      "de": 5
+    },
+    "Unidades vendidas na Steam, acumulado": {
+      "arc": 8700000.0,
+      "posicao": 4,
+      "de": 10
+    }
+  },
+  "jogadores_mes": {
+    "media_nov25": 264430,
+    "media_set26": 20730,
+    "queda_media_pct": -92.2,
+    "pico_recorde": 465097,
+    "pico_set26": 36906,
+    "queda_pico_pct": -92.1
+  },
+  "retencao": {
+    "Tom Clancy's Rainbow Six Siege": {
+      "meses_ate_metade": NaN,
+      "retencao_mes6": 87.9,
+      "retencao_mes10": 103.4
+    },
+    "HELLDIVERS 2": {
+      "meses_ate_metade": 3.0,
+      "retencao_mes6": 9.0,
+      "retencao_mes10": 20.7
+    },
+    "Hunt: Showdown 1896": {
+      "meses_ate_metade": 1.0,
+      "retencao_mes6": 129.2,
+      "retencao_mes10": 76.5
+    },
+    "The Cycle: Frontier": {
+      "meses_ate_metade": 1.0,
+      "retencao_mes6": 5.6,
+      "retencao_mes10": 20.2
+    },
+    "ARC Raiders": {
+      "meses_ate_metade": 4.0,
+      "retencao_mes6": 28.7,
+      "retencao_mes10": 8.8
+    },
+    "Dark and Darker": {
+      "meses_ate_metade": 2.0,
+      "retencao_mes6": 26.5,
+      "retencao_mes10": 28.9
+    },
+    "Gray Zone Warfare": {
+      "meses_ate_metade": 1.0,
+      "retencao_mes6": 3.2,
+      "retencao_mes10": 7.8
+    },
+    "Delta Force": {
+      "meses_ate_metade": NaN,
+      "retencao_mes6": 108.0,
+      "retencao_mes10": 137.5
+    },
+    "Battlefield 6": {
+      "meses_ate_metade": 2.0,
+      "retencao_mes6": 10.2,
+      "retencao_mes10": 13.8
+    },
+    "Marathon": {
+      "meses_ate_metade": 1.0,
+      "retencao_mes6": 5.8,
+      "retencao_mes10": NaN
+    }
+  },
+  "queda_mes_a_mes_pct": {
+    "dez/25": -13.3,
+    "jan/26": 5.2,
+    "fev/26": -29.1,
+    "mar/26": -34.3,
+    "abr/26": -32.4,
+    "mai/26": -19.6,
+    "jun/26": -41.2,
+    "jul/26": -20.2,
+    "ago/26": -19.0,
+    "set/26": -10.7
+  },
+  "lista_de_desejos": {
+    "unidades_por_analise": 20.87,
+    "analises_30d": 178676,
+    "vendas_steam_30d_estimadas": 3728407,
+    "conversao_por_cenario_pct": {
+      "2,5 mi (ago/2025, relato em rede social)": 149.1,
+      "3,5 mi (hipótese)": 106.5,
+      "5 mi (hipótese)": 74.6
+    },
+    "conferencia_vendas_steam_ate_dez25": {
+      "metodo_analises": 5351995,
+      "oficial_x_participacao_steam": 5297400
+    }
+  },
+  "efeito_eventos_pct": {
+    "2025-12-16 COLD SNAP - December Update 1.7.0 Patch Notes": 26.3,
+    "2026-01-13 Patch Notes 1.11.0": -17.2,
+    "2026-01-27 HEADWINDS - Patch Notes 1.13.0": 4.3,
+    "2026-02-10 SHARED WATCH - Patch Notes 1.15.0": -9.5,
+    "2026-02-24 SHROUDED SKY - Patch Notes 1.17.0": 8.3,
+    "2026-03-03 Patch Notes 1.18.0": -1.2,
+    "2026-03-10 Patch Notes 1.19.0": -17.3,
+    "2026-03-17 Patch Notes 1.20.0": -17.9,
+    "2026-03-31 Flashpoint - Patch Notes 1.22.0": 42.6,
+    "2026-04-28 Riven Tides - Patch Notes Update 1.26.0": 51.1,
+    "2026-05-05 Patch Notes 1.27.0": -6.4
+  },
+  "efeito_medio_pct": {
+    "Atualização de conteúdo": {
+      "mean": 20.5,
+      "median": 17.3,
+      "count": 6
+    },
+    "Patch com balanceamento": {
+      "mean": -12.0,
+      "median": -17.2,
+      "count": 5
+    }
+  },
+  "twitch_x_jogadores_indice_set26": {
+    "jogadores": 7.8,
+    "espectadores": 5.0
+  },
+  "perfil": {
+    "idiomas_pct": {
+      "english": 60.52,
+      "russian": 11.35,
+      "german": 4.87,
+      "brazilian": 4.2,
+      "french": 3.85,
+      "spanish": 3.49,
+      "turkish": 1.83,
+      "polish": 1.54,
+      "schinese": 1.39,
+      "italian": 1.07,
+      "koreana": 1.0,
+      "ukrainian": 0.73
+    },
+    "horas_mediana": 138.4,
+    "horas_faixas_pct": {
+      "<10": 3.9,
+      "10-25": 6.3,
+      "25-50": 10.4,
+      "50-100": 18.5,
+      "100-200": 24.0,
+      "200-400": 21.2,
+      "400-800": 11.9,
+      "800+": 3.9
+    },
+    "ativos_2_semanas_pct": 14.2
+  }
+}
