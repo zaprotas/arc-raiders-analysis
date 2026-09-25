@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+data/raw/**/*.zip
+data/raw/steam_reviews_*.jsonl
+data/raw/steam_reviews_*.cursor
+data/interim/*
+!data/interim/.gitkeep
+
+# texto integral de terceiros: baixado de novo por src/collect/official_posts.py
+data/external/official_posts/

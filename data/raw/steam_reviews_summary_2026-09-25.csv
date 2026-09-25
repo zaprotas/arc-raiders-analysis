@@ -1,0 +1,17 @@
+appid,game,group,num_reviews,review_score,review_score_desc,total_positive,total_negative,total_reviews
+1808500,ARC Raiders,arc_raiders,0,8,Very Positive,340983,75946,416929
+3932890,Escape from Tarkov,extraction,0,5,Mixed,32304,33022,65326
+4091290,Escape from Tarkov: PVE Zone,extraction_pve,0,5,Mixed,350,491,841
+594650,Hunt: Showdown 1896,extraction,0,6,Mostly Positive,205692,73343,279035
+3065800,Marathon,extraction,0,6,Mostly Positive,49210,15061,64271
+2016590,Dark and Darker,extraction,0,5,Mixed,55827,29917,85744
+868270,The Cycle: Frontier,extraction,0,5,Mixed,29060,16203,45263
+2479810,Gray Zone Warfare,extraction,0,6,Mostly Positive,57337,21818,79155
+2507950,Delta Force,extraction_hybrid,0,5,Mixed,113181,82859,196040
+730,Counter-Strike 2,fps,0,8,Very Positive,8482191,1398533,9880724
+1172470,Apex Legends,fps,0,5,Mixed,725579,344916,1070495
+578080,PUBG: Battlegrounds,fps,0,5,Mixed,1667301,1112928,2780229
+2807960,Battlefield 6,fps,0,5,Mixed,235709,133860,369569
+359550,Tom Clancy's Rainbow Six Siege,fps,0,8,Very Positive,1277751,278330,1556081
+553850,HELLDIVERS 2,reference_pve,0,6,Mostly Positive,879958,283995,1163953
+275850,No Man's Sky,reference_updates,0,8,Very Positive,358567,62099,420666

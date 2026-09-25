@@ -1,0 +1,912 @@
+appid,game,group,month,avg_players,peak_players,partial_month
+730,Counter-Strike 2,fps,2012-07-01,932.57,1642,False
+730,Counter-Strike 2,fps,2012-08-01,15475.39,52261,False
+730,Counter-Strike 2,fps,2012-09-01,16000.75,36057,False
+730,Counter-Strike 2,fps,2012-10-01,10739.48,20850,False
+730,Counter-Strike 2,fps,2012-11-01,14134.1,50533,False
+730,Counter-Strike 2,fps,2012-12-01,14079.39,27553,False
+730,Counter-Strike 2,fps,2013-01-01,16164.22,31359,False
+730,Counter-Strike 2,fps,2013-02-01,17372.73,35238,False
+730,Counter-Strike 2,fps,2013-03-01,15959.89,32166,False
+730,Counter-Strike 2,fps,2013-04-01,16006.0,31966,False
+730,Counter-Strike 2,fps,2013-05-01,18710.34,53379,False
+730,Counter-Strike 2,fps,2013-06-01,18119.84,33700,False
+730,Counter-Strike 2,fps,2013-07-01,20492.52,42149,False
+730,Counter-Strike 2,fps,2013-08-01,25961.85,50511,False
+730,Counter-Strike 2,fps,2013-09-01,27678.91,52052,False
+730,Counter-Strike 2,fps,2013-10-01,27902.14,53263,False
+730,Counter-Strike 2,fps,2013-11-01,29890.52,92279,False
+730,Counter-Strike 2,fps,2013-12-01,46788.27,96298,False
+730,Counter-Strike 2,fps,2014-01-01,55627.35,102084,False
+730,Counter-Strike 2,fps,2014-02-01,59791.37,119764,False
+730,Counter-Strike 2,fps,2014-03-01,70143.33,164495,False
+730,Counter-Strike 2,fps,2014-04-01,78880.53,142526,False
+730,Counter-Strike 2,fps,2014-05-01,84925.02,170137,False
+730,Counter-Strike 2,fps,2014-06-01,84163.62,164134,False
+730,Counter-Strike 2,fps,2014-07-01,106138.0,193613,False
+730,Counter-Strike 2,fps,2014-08-01,133185.79,277192,False
+730,Counter-Strike 2,fps,2014-09-01,131034.68,242494,False
+730,Counter-Strike 2,fps,2014-10-01,133537.7,260613,False
+730,Counter-Strike 2,fps,2014-11-01,147329.07,348018,False
+730,Counter-Strike 2,fps,2014-12-01,183589.5,367634,False
+730,Counter-Strike 2,fps,2015-01-01,234070.68,443188,False
+730,Counter-Strike 2,fps,2015-02-01,239934.64,455508,False
+730,Counter-Strike 2,fps,2015-03-01,267996.31,595439,False
+730,Counter-Strike 2,fps,2015-04-01,291748.74,568556,False
+730,Counter-Strike 2,fps,2015-05-01,317286.29,677701,False
+730,Counter-Strike 2,fps,2015-06-01,344156.01,610401,False
+730,Counter-Strike 2,fps,2015-07-01,329532.38,541181,False
+730,Counter-Strike 2,fps,2015-08-01,357535.24,819902,False
+730,Counter-Strike 2,fps,2015-09-01,355905.33,725939,False
+730,Counter-Strike 2,fps,2015-10-01,362766.09,732093,False
+730,Counter-Strike 2,fps,2015-11-01,360925.88,786707,False
+730,Counter-Strike 2,fps,2015-12-01,377447.11,823694,False
+730,Counter-Strike 2,fps,2016-01-01,365371.09,667432,False
+730,Counter-Strike 2,fps,2016-02-01,376285.02,738969,False
+730,Counter-Strike 2,fps,2016-03-01,379426.95,737599,False
+730,Counter-Strike 2,fps,2016-04-01,375795.87,850485,False
+730,Counter-Strike 2,fps,2016-05-01,338738.39,668612,False
+730,Counter-Strike 2,fps,2016-06-01,334311.06,579110,False
+730,Counter-Strike 2,fps,2016-07-01,353777.56,636056,False
+730,Counter-Strike 2,fps,2016-08-01,347229.25,599095,False
+730,Counter-Strike 2,fps,2016-09-01,322525.89,638360,False
+730,Counter-Strike 2,fps,2016-10-01,333076.46,661985,False
+730,Counter-Strike 2,fps,2016-11-01,329045.26,627124,False
+730,Counter-Strike 2,fps,2016-12-01,342195.7,662460,False
+730,Counter-Strike 2,fps,2017-01-01,393109.53,814616,False
+730,Counter-Strike 2,fps,2017-02-01,402385.71,744468,False
+730,Counter-Strike 2,fps,2017-03-01,386908.72,742356,False
+730,Counter-Strike 2,fps,2017-04-01,392199.19,709841,False
+730,Counter-Strike 2,fps,2017-05-01,371829.34,692966,False
+730,Counter-Strike 2,fps,2017-06-01,374388.04,614621,False
+730,Counter-Strike 2,fps,2017-07-01,377589.04,624785,False
+730,Counter-Strike 2,fps,2017-08-01,374425.69,595781,False
+730,Counter-Strike 2,fps,2017-09-01,354402.09,665371,False
+730,Counter-Strike 2,fps,2017-10-01,341861.26,639968,False
+730,Counter-Strike 2,fps,2017-11-01,321131.4,601881,False
+730,Counter-Strike 2,fps,2017-12-01,340876.88,598405,False
+730,Counter-Strike 2,fps,2018-01-01,382030.53,715850,False
+730,Counter-Strike 2,fps,2018-02-01,382457.1,686588,False
+730,Counter-Strike 2,fps,2018-03-01,354270.33,672502,False
+730,Counter-Strike 2,fps,2018-04-01,289076.7,523262,False
+730,Counter-Strike 2,fps,2018-05-01,262170.88,454481,False
+730,Counter-Strike 2,fps,2018-06-01,266862.24,420261,False
+730,Counter-Strike 2,fps,2018-07-01,273307.26,426008,False
+730,Counter-Strike 2,fps,2018-08-01,283531.31,454370,False
+730,Counter-Strike 2,fps,2018-09-01,333163.99,583029,False
+730,Counter-Strike 2,fps,2018-10-01,325907.82,565968,False
+730,Counter-Strike 2,fps,2018-11-01,310085.43,546031,False
+730,Counter-Strike 2,fps,2018-12-01,395509.26,746548,False
+730,Counter-Strike 2,fps,2019-01-01,401366.87,684511,False
+730,Counter-Strike 2,fps,2019-02-01,371358.96,654069,False
+730,Counter-Strike 2,fps,2019-03-01,390240.16,680071,False
+730,Counter-Strike 2,fps,2019-04-01,351989.92,621614,False
+730,Counter-Strike 2,fps,2019-05-01,364417.31,588453,False
+730,Counter-Strike 2,fps,2019-06-01,389376.72,587724,False
+730,Counter-Strike 2,fps,2019-07-01,393782.83,578933,False
+730,Counter-Strike 2,fps,2019-08-01,415097.3,647461,False
+730,Counter-Strike 2,fps,2019-09-01,410925.6,720052,False
+730,Counter-Strike 2,fps,2019-10-01,408995.31,747937,False
+730,Counter-Strike 2,fps,2019-11-01,426080.81,758412,False
+730,Counter-Strike 2,fps,2019-12-01,456701.56,767060,False
+730,Counter-Strike 2,fps,2020-01-01,501196.0,817229,False
+730,Counter-Strike 2,fps,2020-02-01,543979.15,916996,False
+730,Counter-Strike 2,fps,2020-03-01,671033.29,1145972,False
+730,Counter-Strike 2,fps,2020-04-01,857604.22,1305714,False
+730,Counter-Strike 2,fps,2020-05-01,768795.25,1193359,False
+730,Counter-Strike 2,fps,2020-06-01,671647.46,1009467,False
+730,Counter-Strike 2,fps,2020-07-01,625900.81,857560,False
+730,Counter-Strike 2,fps,2020-08-01,639957.66,925348,False
+730,Counter-Strike 2,fps,2020-09-01,606850.32,977769,False
+730,Counter-Strike 2,fps,2020-10-01,613666.69,943876,False
+730,Counter-Strike 2,fps,2020-11-01,668754.58,1037464,False
+730,Counter-Strike 2,fps,2020-12-01,717803.75,1164396,False
+730,Counter-Strike 2,fps,2021-01-01,743209.66,1124553,False
+730,Counter-Strike 2,fps,2021-02-01,741013.24,1123485,False
+730,Counter-Strike 2,fps,2021-03-01,740927.82,1198581,False
+730,Counter-Strike 2,fps,2021-04-01,723346.52,1148077,False
+730,Counter-Strike 2,fps,2021-05-01,659888.89,1087197,False
+730,Counter-Strike 2,fps,2021-06-01,549347.08,929940,False
+730,Counter-Strike 2,fps,2021-07-01,506067.36,763523,False
+730,Counter-Strike 2,fps,2021-08-01,512081.96,802544,False
+730,Counter-Strike 2,fps,2021-09-01,512350.92,942519,False
+730,Counter-Strike 2,fps,2021-10-01,512435.85,864966,False
+730,Counter-Strike 2,fps,2021-11-01,548161.67,935593,False
+730,Counter-Strike 2,fps,2021-12-01,546614.19,950586,False
+730,Counter-Strike 2,fps,2022-01-01,602376.27,991625,False
+730,Counter-Strike 2,fps,2022-02-01,634638.4,995163,False
+730,Counter-Strike 2,fps,2022-03-01,581489.69,987993,False
+730,Counter-Strike 2,fps,2022-04-01,568983.16,1013237,False
+730,Counter-Strike 2,fps,2022-05-01,564961.7,923996,False
+730,Counter-Strike 2,fps,2022-06-01,572222.47,906670,False
+730,Counter-Strike 2,fps,2022-07-01,594453.07,928329,False
+730,Counter-Strike 2,fps,2022-08-01,641444.78,1039889,False
+730,Counter-Strike 2,fps,2022-09-01,618776.04,1100366,False
+730,Counter-Strike 2,fps,2022-10-01,608349.53,1078860,False
+730,Counter-Strike 2,fps,2022-11-01,621005.99,1129095,False
+730,Counter-Strike 2,fps,2022-12-01,629325.0,1065079,False
+730,Counter-Strike 2,fps,2023-01-01,726150.29,1199684,False
+730,Counter-Strike 2,fps,2023-02-01,805105.9,1354248,False
+730,Counter-Strike 2,fps,2023-03-01,843474.54,1519457,False
+730,Counter-Strike 2,fps,2023-04-01,918085.6,1510231,False
+730,Counter-Strike 2,fps,2023-05-01,1117517.4,1802853,False
+730,Counter-Strike 2,fps,2023-06-01,1085966.81,1665869,False
+730,Counter-Strike 2,fps,2023-07-01,881690.91,1222913,False
+730,Counter-Strike 2,fps,2023-08-01,922152.86,1369511,False
+730,Counter-Strike 2,fps,2023-09-01,976137.99,1556326,False
+730,Counter-Strike 2,fps,2023-10-01,792124.96,1364902,False
+730,Counter-Strike 2,fps,2023-11-01,714511.43,1161043,False
+730,Counter-Strike 2,fps,2023-12-01,770094.8,1248217,False
+730,Counter-Strike 2,fps,2024-01-01,760859.23,1277907,False
+730,Counter-Strike 2,fps,2024-02-01,786630.82,1347519,False
+730,Counter-Strike 2,fps,2024-03-01,885629.69,1521796,False
+730,Counter-Strike 2,fps,2024-04-01,930748.98,1618685,False
+730,Counter-Strike 2,fps,2024-05-01,958207.34,1614925,False
+730,Counter-Strike 2,fps,2024-06-01,947520.53,1510840,False
+730,Counter-Strike 2,fps,2024-07-01,875365.08,1342171,False
+730,Counter-Strike 2,fps,2024-08-01,897337.88,1425958,False
+730,Counter-Strike 2,fps,2024-09-01,836306.66,1473144,False
+730,Counter-Strike 2,fps,2024-10-01,829438.76,1484045,False
+730,Counter-Strike 2,fps,2024-11-01,852164.3,1556938,False
+730,Counter-Strike 2,fps,2024-12-01,913953.36,1740261,False
+730,Counter-Strike 2,fps,2025-01-01,914092.22,1594016,False
+730,Counter-Strike 2,fps,2025-02-01,1003570.56,1783434,False
+730,Counter-Strike 2,fps,2025-03-01,1039662.81,1818368,False
+730,Counter-Strike 2,fps,2025-04-01,1045701.65,1811827,False
+730,Counter-Strike 2,fps,2025-05-01,1038596.81,1712216,False
+730,Counter-Strike 2,fps,2025-06-01,1010123.99,1725815,False
+730,Counter-Strike 2,fps,2025-07-01,920069.98,1427300,False
+730,Counter-Strike 2,fps,2025-08-01,928429.24,1502245,False
+730,Counter-Strike 2,fps,2025-09-01,925940.31,1571060,False
+730,Counter-Strike 2,fps,2025-10-01,948244.21,1588091,False
+730,Counter-Strike 2,fps,2025-11-01,981482.45,1597285,False
+730,Counter-Strike 2,fps,2025-12-01,991176.89,1620137,False
+730,Counter-Strike 2,fps,2026-01-01,1070443.78,1654355,False
+730,Counter-Strike 2,fps,2026-02-01,1084094.59,1627561,False
+730,Counter-Strike 2,fps,2026-03-01,1069173.12,1717624,False
+730,Counter-Strike 2,fps,2026-04-01,974785.71,1564830,False
+730,Counter-Strike 2,fps,2026-05-01,932721.03,1489217,False
+730,Counter-Strike 2,fps,2026-06-01,916654.53,1573727,False
+730,Counter-Strike 2,fps,2026-07-01,853232.45,1420896,False
+730,Counter-Strike 2,fps,2026-08-01,825257.8,1331274,False
+730,Counter-Strike 2,fps,2026-09-01,803364.06,1450705,True
+275850,No Man's Sky,reference_updates,2016-08-01,36976.41,212321,False
+275850,No Man's Sky,reference_updates,2016-09-01,2982.79,9254,False
+275850,No Man's Sky,reference_updates,2016-10-01,774.14,2172,False
+275850,No Man's Sky,reference_updates,2016-11-01,900.28,8090,False
+275850,No Man's Sky,reference_updates,2016-12-01,2145.01,6498,False
+275850,No Man's Sky,reference_updates,2017-01-01,869.6,2220,False
+275850,No Man's Sky,reference_updates,2017-02-01,508.0,1097,False
+275850,No Man's Sky,reference_updates,2017-03-01,1805.89,7023,False
+275850,No Man's Sky,reference_updates,2017-04-01,847.28,1869,False
+275850,No Man's Sky,reference_updates,2017-05-01,562.13,1052,False
+275850,No Man's Sky,reference_updates,2017-06-01,651.19,1781,False
+275850,No Man's Sky,reference_updates,2017-07-01,827.48,1694,False
+275850,No Man's Sky,reference_updates,2017-08-01,4895.45,19017,False
+275850,No Man's Sky,reference_updates,2017-09-01,2146.1,5733,False
+275850,No Man's Sky,reference_updates,2017-10-01,1035.08,2277,False
+275850,No Man's Sky,reference_updates,2017-11-01,933.2,1915,False
+275850,No Man's Sky,reference_updates,2017-12-01,905.3,1874,False
+275850,No Man's Sky,reference_updates,2018-01-01,930.32,1938,False
+275850,No Man's Sky,reference_updates,2018-02-01,708.16,1406,False
+275850,No Man's Sky,reference_updates,2018-03-01,557.85,1047,False
+275850,No Man's Sky,reference_updates,2018-04-01,631.43,1203,False
+275850,No Man's Sky,reference_updates,2018-05-01,782.81,1942,False
+275850,No Man's Sky,reference_updates,2018-06-01,1035.41,2047,False
+275850,No Man's Sky,reference_updates,2018-07-01,14554.19,96954,False
+275850,No Man's Sky,reference_updates,2018-08-01,28083.0,83156,False
+275850,No Man's Sky,reference_updates,2018-09-01,5911.01,15099,False
+275850,No Man's Sky,reference_updates,2018-10-01,3078.88,6291,False
+275850,No Man's Sky,reference_updates,2018-11-01,3833.24,8569,False
+275850,No Man's Sky,reference_updates,2018-12-01,4730.73,9118,False
+275850,No Man's Sky,reference_updates,2019-01-01,3302.08,7621,False
+275850,No Man's Sky,reference_updates,2019-02-01,2268.59,4573,False
+275850,No Man's Sky,reference_updates,2019-03-01,2051.77,5892,False
+275850,No Man's Sky,reference_updates,2019-04-01,2607.54,4971,False
+275850,No Man's Sky,reference_updates,2019-05-01,2986.3,7478,False
+275850,No Man's Sky,reference_updates,2019-06-01,2675.05,6055,False
+275850,No Man's Sky,reference_updates,2019-07-01,3789.93,6914,False
+275850,No Man's Sky,reference_updates,2019-08-01,20605.32,61535,False
+275850,No Man's Sky,reference_updates,2019-09-01,9019.4,27831,False
+275850,No Man's Sky,reference_updates,2019-10-01,3877.12,8568,False
+275850,No Man's Sky,reference_updates,2019-11-01,2824.54,9918,False
+275850,No Man's Sky,reference_updates,2019-12-01,5303.24,11029,False
+275850,No Man's Sky,reference_updates,2020-01-01,5270.44,10613,False
+275850,No Man's Sky,reference_updates,2020-02-01,6700.82,17980,False
+275850,No Man's Sky,reference_updates,2020-03-01,5919.73,13493,False
+275850,No Man's Sky,reference_updates,2020-04-01,11263.19,25414,False
+275850,No Man's Sky,reference_updates,2020-05-01,6654.77,12089,False
+275850,No Man's Sky,reference_updates,2020-06-01,6562.3,11736,False
+275850,No Man's Sky,reference_updates,2020-07-01,9572.2,21844,False
+275850,No Man's Sky,reference_updates,2020-08-01,6906.51,14929,False
+275850,No Man's Sky,reference_updates,2020-09-01,8526.01,34739,False
+275850,No Man's Sky,reference_updates,2020-10-01,12431.63,30502,False
+275850,No Man's Sky,reference_updates,2020-11-01,8488.0,16326,False
+275850,No Man's Sky,reference_updates,2020-12-01,6691.06,11954,False
+275850,No Man's Sky,reference_updates,2021-01-01,6639.96,12707,False
+275850,No Man's Sky,reference_updates,2021-02-01,7005.63,15126,False
+275850,No Man's Sky,reference_updates,2021-03-01,5834.69,9928,False
+275850,No Man's Sky,reference_updates,2021-04-01,9470.57,20871,False
+275850,No Man's Sky,reference_updates,2021-05-01,6909.46,13361,False
+275850,No Man's Sky,reference_updates,2021-06-01,9036.87,19792,False
+275850,No Man's Sky,reference_updates,2021-07-01,6608.76,11719,False
+275850,No Man's Sky,reference_updates,2021-08-01,5106.39,8310,False
+275850,No Man's Sky,reference_updates,2021-09-01,17826.82,38538,False
+275850,No Man's Sky,reference_updates,2021-10-01,8582.6,17754,False
+275850,No Man's Sky,reference_updates,2021-11-01,6350.45,13102,False
+275850,No Man's Sky,reference_updates,2021-12-01,7068.33,12716,False
+275850,No Man's Sky,reference_updates,2022-01-01,6020.54,10741,False
+275850,No Man's Sky,reference_updates,2022-02-01,6994.08,14304,False
+275850,No Man's Sky,reference_updates,2022-03-01,6018.31,11008,False
+275850,No Man's Sky,reference_updates,2022-04-01,13651.52,31870,False
+275850,No Man's Sky,reference_updates,2022-05-01,13699.16,28487,False
+275850,No Man's Sky,reference_updates,2022-06-01,13275.35,27054,False
+275850,No Man's Sky,reference_updates,2022-07-01,15481.9,40753,False
+275850,No Man's Sky,reference_updates,2022-08-01,15064.78,32413,False
+275850,No Man's Sky,reference_updates,2022-09-01,7935.42,16623,False
+275850,No Man's Sky,reference_updates,2022-10-01,9618.7,20349,False
+275850,No Man's Sky,reference_updates,2022-11-01,6788.54,12319,False
+275850,No Man's Sky,reference_updates,2022-12-01,7522.03,12475,False
+275850,No Man's Sky,reference_updates,2023-01-01,6397.22,11366,False
+275850,No Man's Sky,reference_updates,2023-02-01,5489.98,14945,False
+275850,No Man's Sky,reference_updates,2023-03-01,7395.69,14172,False
+275850,No Man's Sky,reference_updates,2023-04-01,11717.96,23336,False
+275850,No Man's Sky,reference_updates,2023-05-01,6590.87,12944,False
+275850,No Man's Sky,reference_updates,2023-06-01,8731.46,16427,False
+275850,No Man's Sky,reference_updates,2023-07-01,6853.47,12234,False
+275850,No Man's Sky,reference_updates,2023-08-01,6426.11,20998,False
+275850,No Man's Sky,reference_updates,2023-09-01,16344.28,34085,False
+275850,No Man's Sky,reference_updates,2023-10-01,10483.32,22361,False
+275850,No Man's Sky,reference_updates,2023-11-01,5798.87,11550,False
+275850,No Man's Sky,reference_updates,2023-12-01,7966.36,13308,False
+275850,No Man's Sky,reference_updates,2024-01-01,6079.09,11934,False
+275850,No Man's Sky,reference_updates,2024-02-01,8006.92,23461,False
+275850,No Man's Sky,reference_updates,2024-03-01,7438.4,18819,False
+275850,No Man's Sky,reference_updates,2024-04-01,8735.2,18923,False
+275850,No Man's Sky,reference_updates,2024-05-01,5123.8,14956,False
+275850,No Man's Sky,reference_updates,2024-06-01,8135.78,20046,False
+275850,No Man's Sky,reference_updates,2024-07-01,17408.24,54901,False
+275850,No Man's Sky,reference_updates,2024-08-01,17543.89,40951,False
+275850,No Man's Sky,reference_updates,2024-09-01,16844.93,38475,False
+275850,No Man's Sky,reference_updates,2024-10-01,9980.6,25403,False
+275850,No Man's Sky,reference_updates,2024-11-01,10889.2,21542,False
+275850,No Man's Sky,reference_updates,2024-12-01,11499.01,20566,False
+275850,No Man's Sky,reference_updates,2025-01-01,9252.59,27721,False
+275850,No Man's Sky,reference_updates,2025-02-01,22574.66,43443,False
+275850,No Man's Sky,reference_updates,2025-03-01,10968.11,22837,False
+275850,No Man's Sky,reference_updates,2025-04-01,9641.27,20566,False
+275850,No Man's Sky,reference_updates,2025-05-01,6524.81,12970,False
+275850,No Man's Sky,reference_updates,2025-06-01,11280.11,23640,False
+275850,No Man's Sky,reference_updates,2025-07-01,9291.76,15287,False
+275850,No Man's Sky,reference_updates,2025-08-01,13106.42,93195,False
+275850,No Man's Sky,reference_updates,2025-09-01,45883.75,110429,False
+275850,No Man's Sky,reference_updates,2025-10-01,21855.38,43104,False
+275850,No Man's Sky,reference_updates,2025-11-01,17173.63,35456,False
+275850,No Man's Sky,reference_updates,2025-12-01,13723.25,22580,False
+275850,No Man's Sky,reference_updates,2026-01-01,11562.84,24023,False
+275850,No Man's Sky,reference_updates,2026-02-01,13769.34,32169,False
+275850,No Man's Sky,reference_updates,2026-03-01,10351.38,21398,False
+275850,No Man's Sky,reference_updates,2026-04-01,12320.58,25650,False
+275850,No Man's Sky,reference_updates,2026-05-01,9621.67,28162,False
+275850,No Man's Sky,reference_updates,2026-06-01,12899.04,26344,False
+275850,No Man's Sky,reference_updates,2026-07-01,9225.14,16244,False
+275850,No Man's Sky,reference_updates,2026-08-01,8244.41,14011,False
+275850,No Man's Sky,reference_updates,2026-09-01,20426.26,55623,True
+359550,Tom Clancy's Rainbow Six Siege,fps,2015-12-01,7941.45,18130,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-01-01,10244.29,20006,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-02-01,9263.47,16044,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-03-01,6125.46,11234,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-04-01,7643.56,29170,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-05-01,7069.7,14447,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-06-01,9002.74,15295,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-07-01,10854.23,39382,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-08-01,13971.23,32084,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-09-01,10411.69,18099,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-10-01,10591.93,19467,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-11-01,15355.49,42265,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2016-12-01,17176.87,30859,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-01-01,20706.7,34616,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-02-01,30568.27,65189,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-03-01,26079.63,47994,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-04-01,24975.95,47040,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-05-01,23804.07,43606,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-06-01,24083.72,43057,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-07-01,28378.64,47328,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-08-01,33923.18,73641,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-09-01,36448.87,69988,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-10-01,31618.81,59895,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-11-01,41483.67,99110,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2017-12-01,59411.66,100433,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-01-01,63474.82,109103,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-02-01,68796.24,125133,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-03-01,83112.29,176208,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-04-01,64263.44,124813,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-05-01,63092.81,142362,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-06-01,66376.81,141630,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-07-01,68241.0,116054,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-08-01,73816.38,134159,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-09-01,73676.87,143866,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-10-01,62428.64,123794,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-11-01,57902.93,115820,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2018-12-01,70865.32,129558,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-01-01,79175.76,137434,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-02-01,72997.66,136018,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-03-01,69588.02,134776,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-04-01,61351.45,124989,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-05-01,59172.09,115381,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-06-01,78059.34,140274,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-07-01,77411.07,128458,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-08-01,73956.28,138827,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-09-01,77922.76,148365,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-10-01,65632.48,125590,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-11-01,66499.28,123848,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2019-12-01,78228.73,138681,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-01-01,94185.78,157948,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-02-01,97667.34,178824,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-03-01,119877.88,198567,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-04-01,108514.57,194102,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-05-01,80099.3,146359,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-06-01,70200.51,126733,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-07-01,76279.2,122438,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-08-01,68205.26,127249,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-09-01,75543.34,163478,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-10-01,62956.21,114281,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-11-01,55307.46,94968,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2020-12-01,70721.5,123374,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-01-01,77717.42,123637,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-02-01,72382.76,113338,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-03-01,85157.21,199830,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-04-01,74616.41,142422,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-05-01,58274.07,108281,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-06-01,54960.64,100214,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-07-01,53474.02,89513,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-08-01,49906.2,93643,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-09-01,51139.69,111554,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-10-01,43016.48,79691,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-11-01,37857.97,71142,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2021-12-01,43674.12,83292,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-01-01,44992.83,74819,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-02-01,43867.38,78263,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-03-01,46745.65,108630,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-04-01,45090.68,93429,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-05-01,36859.56,72038,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-06-01,38631.29,69997,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-07-01,39181.26,64470,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-08-01,34981.88,60463,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-09-01,34852.0,66141,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-10-01,28260.54,54769,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-11-01,23470.28,45282,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2022-12-01,38917.45,63872,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-01-01,43692.68,66780,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-02-01,41643.63,65006,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-03-01,49957.15,88146,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-04-01,45694.54,79348,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-05-01,40341.85,66908,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-06-01,45374.91,68292,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-07-01,49432.42,70979,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-08-01,51906.45,83901,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-09-01,58767.53,95149,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-10-01,52084.47,94953,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-11-01,36814.58,59597,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2023-12-01,42055.58,62190,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-01-01,50275.35,83645,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-02-01,57569.07,101985,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-03-01,105825.14,200476,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-04-01,91493.17,155546,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-05-01,60580.55,100331,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-06-01,57864.53,88626,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-07-01,52112.55,73646,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-08-01,50272.3,75457,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-09-01,51446.86,91165,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-10-01,44414.65,76108,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-11-01,35763.66,59030,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2024-12-01,47517.59,76821,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-01-01,56015.67,95600,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-02-01,60258.5,100940,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-03-01,80494.73,145490,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-04-01,62010.19,105998,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-05-01,51085.1,88409,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-06-01,80447.23,141309,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-07-01,74145.09,111052,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-08-01,61650.14,100140,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-09-01,51338.59,93669,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-10-01,35218.79,63002,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-11-01,31876.99,51335,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2025-12-01,39974.8,67233,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2026-01-01,46733.26,88076,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2026-02-01,54004.25,110858,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2026-03-01,72777.06,138483,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2026-04-01,64170.28,108907,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2026-05-01,60338.22,100533,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2026-06-01,62504.77,117909,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2026-07-01,51291.49,75845,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2026-08-01,60594.92,102757,False
+359550,Tom Clancy's Rainbow Six Siege,fps,2026-09-01,64740.04,120267,True
+553850,HELLDIVERS 2,reference_pve,2024-02-01,274304.38,458208,False
+553850,HELLDIVERS 2,reference_pve,2024-03-01,217045.57,437818,False
+553850,HELLDIVERS 2,reference_pve,2024-04-01,142853.62,333751,False
+553850,HELLDIVERS 2,reference_pve,2024-05-01,65221.4,125574,False
+553850,HELLDIVERS 2,reference_pve,2024-06-01,41638.31,91692,False
+553850,HELLDIVERS 2,reference_pve,2024-07-01,23928.28,47007,False
+553850,HELLDIVERS 2,reference_pve,2024-08-01,24574.1,62585,False
+553850,HELLDIVERS 2,reference_pve,2024-09-01,25885.31,68315,False
+553850,HELLDIVERS 2,reference_pve,2024-10-01,30407.27,72196,False
+553850,HELLDIVERS 2,reference_pve,2024-11-01,29650.66,56787,False
+553850,HELLDIVERS 2,reference_pve,2024-12-01,56734.54,148524,False
+553850,HELLDIVERS 2,reference_pve,2025-01-01,46838.92,94361,False
+553850,HELLDIVERS 2,reference_pve,2025-02-01,53276.32,96421,False
+553850,HELLDIVERS 2,reference_pve,2025-03-01,38521.25,74048,False
+553850,HELLDIVERS 2,reference_pve,2025-04-01,27965.66,48671,False
+553850,HELLDIVERS 2,reference_pve,2025-05-01,60291.32,162997,False
+553850,HELLDIVERS 2,reference_pve,2025-06-01,53136.43,119358,False
+553850,HELLDIVERS 2,reference_pve,2025-07-01,37951.75,75108,False
+553850,HELLDIVERS 2,reference_pve,2025-08-01,40433.48,163085,False
+553850,HELLDIVERS 2,reference_pve,2025-09-01,68412.3,177327,False
+553850,HELLDIVERS 2,reference_pve,2025-10-01,29525.67,61493,False
+553850,HELLDIVERS 2,reference_pve,2025-11-01,22073.53,37770,False
+553850,HELLDIVERS 2,reference_pve,2025-12-01,34475.01,68577,False
+553850,HELLDIVERS 2,reference_pve,2026-01-01,33874.63,64412,False
+553850,HELLDIVERS 2,reference_pve,2026-02-01,76473.83,171120,False
+553850,HELLDIVERS 2,reference_pve,2026-03-01,47917.25,83024,False
+553850,HELLDIVERS 2,reference_pve,2026-04-01,35678.25,83346,False
+553850,HELLDIVERS 2,reference_pve,2026-05-01,30661.29,56995,False
+553850,HELLDIVERS 2,reference_pve,2026-06-01,25422.53,45817,False
+553850,HELLDIVERS 2,reference_pve,2026-07-01,26750.49,43782,False
+553850,HELLDIVERS 2,reference_pve,2026-08-01,52421.75,144799,False
+553850,HELLDIVERS 2,reference_pve,2026-09-01,47568.54,92006,True
+578080,PUBG: Battlegrounds,fps,2017-03-01,17551.14,67846,False
+578080,PUBG: Battlegrounds,fps,2017-04-01,69794.98,140104,False
+578080,PUBG: Battlegrounds,fps,2017-05-01,107441.6,189456,False
+578080,PUBG: Battlegrounds,fps,2017-06-01,139902.24,267194,False
+578080,PUBG: Battlegrounds,fps,2017-07-01,229701.7,481291,False
+578080,PUBG: Battlegrounds,fps,2017-08-01,389527.42,874171,False
+578080,PUBG: Battlegrounds,fps,2017-09-01,660192.74,1550463,False
+578080,PUBG: Battlegrounds,fps,2017-10-01,1086638.87,2390946,False
+578080,PUBG: Battlegrounds,fps,2017-11-01,1334170.09,2915723,False
+578080,PUBG: Battlegrounds,fps,2017-12-01,1436158.51,3080769,False
+578080,PUBG: Battlegrounds,fps,2018-01-01,1584886.77,3236027,False
+578080,PUBG: Battlegrounds,fps,2018-02-01,1391015.3,2934761,False
+578080,PUBG: Battlegrounds,fps,2018-03-01,1295408.59,2799269,False
+578080,PUBG: Battlegrounds,fps,2018-04-01,1107181.8,2456361,False
+578080,PUBG: Battlegrounds,fps,2018-05-01,876180.64,2175704,False
+578080,PUBG: Battlegrounds,fps,2018-06-01,800668.23,1750216,False
+578080,PUBG: Battlegrounds,fps,2018-07-01,688620.42,1350463,False
+578080,PUBG: Battlegrounds,fps,2018-08-01,619320.48,1260894,False
+578080,PUBG: Battlegrounds,fps,2018-09-01,542607.05,1125229,False
+578080,PUBG: Battlegrounds,fps,2018-10-01,469141.74,1048662,False
+578080,PUBG: Battlegrounds,fps,2018-11-01,418159.48,895650,False
+578080,PUBG: Battlegrounds,fps,2018-12-01,473541.26,1109766,False
+578080,PUBG: Battlegrounds,fps,2019-01-01,497803.25,1084606,False
+578080,PUBG: Battlegrounds,fps,2019-02-01,437959.1,931754,False
+578080,PUBG: Battlegrounds,fps,2019-03-01,417812.51,931407,False
+578080,PUBG: Battlegrounds,fps,2019-04-01,390100.9,886255,False
+578080,PUBG: Battlegrounds,fps,2019-05-01,385840.59,817595,False
+578080,PUBG: Battlegrounds,fps,2019-06-01,363083.37,745960,False
+578080,PUBG: Battlegrounds,fps,2019-07-01,352888.88,745224,False
+578080,PUBG: Battlegrounds,fps,2019-08-01,358530.96,750941,False
+578080,PUBG: Battlegrounds,fps,2019-09-01,311444.31,660864,False
+578080,PUBG: Battlegrounds,fps,2019-10-01,287133.41,637870,False
+578080,PUBG: Battlegrounds,fps,2019-11-01,305659.39,695920,False
+578080,PUBG: Battlegrounds,fps,2019-12-01,308445.45,686239,False
+578080,PUBG: Battlegrounds,fps,2020-01-01,275363.04,645414,False
+578080,PUBG: Battlegrounds,fps,2020-02-01,257584.32,606689,False
+578080,PUBG: Battlegrounds,fps,2020-03-01,228467.17,562028,False
+578080,PUBG: Battlegrounds,fps,2020-04-01,242847.28,913075,False
+578080,PUBG: Battlegrounds,fps,2020-05-01,243258.78,553121,False
+578080,PUBG: Battlegrounds,fps,2020-06-01,230329.74,546359,False
+578080,PUBG: Battlegrounds,fps,2020-07-01,211700.3,469568,False
+578080,PUBG: Battlegrounds,fps,2020-08-01,192492.61,443390,False
+578080,PUBG: Battlegrounds,fps,2020-09-01,169093.71,403693,False
+578080,PUBG: Battlegrounds,fps,2020-10-01,162585.64,381079,False
+578080,PUBG: Battlegrounds,fps,2020-11-01,179520.26,438919,False
+578080,PUBG: Battlegrounds,fps,2020-12-01,189233.58,444680,False
+578080,PUBG: Battlegrounds,fps,2021-01-01,201247.19,451998,False
+578080,PUBG: Battlegrounds,fps,2021-02-01,198957.52,447390,False
+578080,PUBG: Battlegrounds,fps,2021-03-01,193114.18,464480,False
+578080,PUBG: Battlegrounds,fps,2021-04-01,186110.65,453579,False
+578080,PUBG: Battlegrounds,fps,2021-05-01,184701.21,419509,False
+578080,PUBG: Battlegrounds,fps,2021-06-01,179338.27,427913,False
+578080,PUBG: Battlegrounds,fps,2021-07-01,186249.97,413274,False
+578080,PUBG: Battlegrounds,fps,2021-08-01,184828.4,444355,False
+578080,PUBG: Battlegrounds,fps,2021-09-01,167102.12,400709,False
+578080,PUBG: Battlegrounds,fps,2021-10-01,158437.88,393496,False
+578080,PUBG: Battlegrounds,fps,2021-11-01,141261.19,341570,False
+578080,PUBG: Battlegrounds,fps,2021-12-01,153670.81,363839,False
+578080,PUBG: Battlegrounds,fps,2022-01-01,242322.35,696704,False
+578080,PUBG: Battlegrounds,fps,2022-02-01,241174.46,532109,False
+578080,PUBG: Battlegrounds,fps,2022-03-01,226114.89,535587,False
+578080,PUBG: Battlegrounds,fps,2022-04-01,223541.44,527433,False
+578080,PUBG: Battlegrounds,fps,2022-05-01,200854.21,468207,False
+578080,PUBG: Battlegrounds,fps,2022-06-01,181187.81,413426,False
+578080,PUBG: Battlegrounds,fps,2022-07-01,177018.21,391255,False
+578080,PUBG: Battlegrounds,fps,2022-08-01,184372.52,395910,False
+578080,PUBG: Battlegrounds,fps,2022-09-01,195439.04,448410,False
+578080,PUBG: Battlegrounds,fps,2022-10-01,196558.88,440651,False
+578080,PUBG: Battlegrounds,fps,2022-11-01,183919.79,425493,False
+578080,PUBG: Battlegrounds,fps,2022-12-01,212290.36,586384,False
+578080,PUBG: Battlegrounds,fps,2023-01-01,203658.43,465423,False
+578080,PUBG: Battlegrounds,fps,2023-02-01,220871.5,490332,False
+578080,PUBG: Battlegrounds,fps,2023-03-01,203405.11,459344,False
+578080,PUBG: Battlegrounds,fps,2023-04-01,197736.31,444973,False
+578080,PUBG: Battlegrounds,fps,2023-05-01,183498.98,414957,False
+578080,PUBG: Battlegrounds,fps,2023-06-01,164443.43,376727,False
+578080,PUBG: Battlegrounds,fps,2023-07-01,163507.73,356738,False
+578080,PUBG: Battlegrounds,fps,2023-08-01,180372.9,397857,False
+578080,PUBG: Battlegrounds,fps,2023-09-01,181956.39,415099,False
+578080,PUBG: Battlegrounds,fps,2023-10-01,188670.82,444585,False
+578080,PUBG: Battlegrounds,fps,2023-11-01,206208.57,502374,False
+578080,PUBG: Battlegrounds,fps,2023-12-01,247012.55,623852,False
+578080,PUBG: Battlegrounds,fps,2024-01-01,249557.66,587152,False
+578080,PUBG: Battlegrounds,fps,2024-02-01,250314.93,609366,False
+578080,PUBG: Battlegrounds,fps,2024-03-01,281342.08,764034,False
+578080,PUBG: Battlegrounds,fps,2024-04-01,280853.22,699697,False
+578080,PUBG: Battlegrounds,fps,2024-05-01,271364.22,693105,False
+578080,PUBG: Battlegrounds,fps,2024-06-01,287498.52,699256,False
+578080,PUBG: Battlegrounds,fps,2024-07-01,293396.8,700235,False
+578080,PUBG: Battlegrounds,fps,2024-08-01,285247.47,719506,False
+578080,PUBG: Battlegrounds,fps,2024-09-01,298267.38,807515,False
+578080,PUBG: Battlegrounds,fps,2024-10-01,293349.98,762909,False
+578080,PUBG: Battlegrounds,fps,2024-11-01,315613.2,796001,False
+578080,PUBG: Battlegrounds,fps,2024-12-01,321097.93,799077,False
+578080,PUBG: Battlegrounds,fps,2025-01-01,307550.31,786821,False
+578080,PUBG: Battlegrounds,fps,2025-02-01,316776.38,818843,False
+578080,PUBG: Battlegrounds,fps,2025-03-01,345527.34,1329605,False
+578080,PUBG: Battlegrounds,fps,2025-04-01,317441.03,861598,False
+578080,PUBG: Battlegrounds,fps,2025-05-01,305253.18,804674,False
+578080,PUBG: Battlegrounds,fps,2025-06-01,309892.01,778327,False
+578080,PUBG: Battlegrounds,fps,2025-07-01,303261.31,944484,False
+578080,PUBG: Battlegrounds,fps,2025-08-01,295503.96,724503,False
+578080,PUBG: Battlegrounds,fps,2025-09-01,278095.62,707773,False
+578080,PUBG: Battlegrounds,fps,2025-10-01,266558.99,750442,False
+578080,PUBG: Battlegrounds,fps,2025-11-01,277985.22,691068,False
+578080,PUBG: Battlegrounds,fps,2025-12-01,279406.47,751295,False
+578080,PUBG: Battlegrounds,fps,2026-01-01,290396.69,712143,False
+578080,PUBG: Battlegrounds,fps,2026-02-01,267134.96,694462,False
+578080,PUBG: Battlegrounds,fps,2026-03-01,327212.78,1290870,False
+578080,PUBG: Battlegrounds,fps,2026-04-01,353167.38,979753,False
+578080,PUBG: Battlegrounds,fps,2026-05-01,321602.24,822338,False
+578080,PUBG: Battlegrounds,fps,2026-06-01,317119.69,820499,False
+578080,PUBG: Battlegrounds,fps,2026-07-01,327149.55,792142,False
+578080,PUBG: Battlegrounds,fps,2026-08-01,321321.16,771621,False
+578080,PUBG: Battlegrounds,fps,2026-09-01,309150.27,788224,True
+594650,Hunt: Showdown 1896,extraction,2017-10-01,0.03,1,False
+594650,Hunt: Showdown 1896,extraction,2017-11-01,0.31,2,False
+594650,Hunt: Showdown 1896,extraction,2017-12-01,0.55,25,False
+594650,Hunt: Showdown 1896,extraction,2018-01-01,0.41,3,False
+594650,Hunt: Showdown 1896,extraction,2018-02-01,1393.58,10296,False
+594650,Hunt: Showdown 1896,extraction,2018-03-01,2479.98,8206,False
+594650,Hunt: Showdown 1896,extraction,2018-04-01,1011.76,2262,False
+594650,Hunt: Showdown 1896,extraction,2018-05-01,1027.21,2829,False
+594650,Hunt: Showdown 1896,extraction,2018-06-01,1552.79,3379,False
+594650,Hunt: Showdown 1896,extraction,2018-07-01,2021.56,3773,False
+594650,Hunt: Showdown 1896,extraction,2018-08-01,3204.69,14003,False
+594650,Hunt: Showdown 1896,extraction,2018-09-01,1914.48,4236,False
+594650,Hunt: Showdown 1896,extraction,2018-10-01,1685.02,3596,False
+594650,Hunt: Showdown 1896,extraction,2018-11-01,1611.88,3831,False
+594650,Hunt: Showdown 1896,extraction,2018-12-01,1898.2,3960,False
+594650,Hunt: Showdown 1896,extraction,2019-01-01,1559.91,3065,False
+594650,Hunt: Showdown 1896,extraction,2019-02-01,1258.13,2657,False
+594650,Hunt: Showdown 1896,extraction,2019-03-01,1390.07,2817,False
+594650,Hunt: Showdown 1896,extraction,2019-04-01,1257.74,2663,False
+594650,Hunt: Showdown 1896,extraction,2019-05-01,1775.62,3888,False
+594650,Hunt: Showdown 1896,extraction,2019-06-01,3000.3,12636,False
+594650,Hunt: Showdown 1896,extraction,2019-07-01,2377.68,4354,False
+594650,Hunt: Showdown 1896,extraction,2019-08-01,4128.88,11862,False
+594650,Hunt: Showdown 1896,extraction,2019-09-01,5559.25,13467,False
+594650,Hunt: Showdown 1896,extraction,2019-10-01,3569.52,7713,False
+594650,Hunt: Showdown 1896,extraction,2019-11-01,2910.78,5806,False
+594650,Hunt: Showdown 1896,extraction,2019-12-01,4536.84,12968,False
+594650,Hunt: Showdown 1896,extraction,2020-01-01,4540.92,9065,False
+594650,Hunt: Showdown 1896,extraction,2020-02-01,5487.75,12428,False
+594650,Hunt: Showdown 1896,extraction,2020-03-01,6019.75,12856,False
+594650,Hunt: Showdown 1896,extraction,2020-04-01,5892.6,12472,False
+594650,Hunt: Showdown 1896,extraction,2020-05-01,5610.37,10746,False
+594650,Hunt: Showdown 1896,extraction,2020-06-01,5589.31,12660,False
+594650,Hunt: Showdown 1896,extraction,2020-07-01,6388.57,13842,False
+594650,Hunt: Showdown 1896,extraction,2020-08-01,5612.19,10733,False
+594650,Hunt: Showdown 1896,extraction,2020-09-01,5153.44,10451,False
+594650,Hunt: Showdown 1896,extraction,2020-10-01,5213.72,15063,False
+594650,Hunt: Showdown 1896,extraction,2020-11-01,6242.3,16523,False
+594650,Hunt: Showdown 1896,extraction,2020-12-01,7204.06,15539,False
+594650,Hunt: Showdown 1896,extraction,2021-01-01,7484.3,15265,False
+594650,Hunt: Showdown 1896,extraction,2021-02-01,7984.55,15859,False
+594650,Hunt: Showdown 1896,extraction,2021-03-01,10214.58,32288,False
+594650,Hunt: Showdown 1896,extraction,2021-04-01,14804.4,32579,False
+594650,Hunt: Showdown 1896,extraction,2021-05-01,9413.64,18632,False
+594650,Hunt: Showdown 1896,extraction,2021-06-01,8820.17,17715,False
+594650,Hunt: Showdown 1896,extraction,2021-07-01,9984.13,21287,False
+594650,Hunt: Showdown 1896,extraction,2021-08-01,11914.58,34248,False
+594650,Hunt: Showdown 1896,extraction,2021-09-01,13959.09,30658,False
+594650,Hunt: Showdown 1896,extraction,2021-10-01,11364.45,29766,False
+594650,Hunt: Showdown 1896,extraction,2021-11-01,13127.07,28185,False
+594650,Hunt: Showdown 1896,extraction,2021-12-01,15375.53,31351,False
+594650,Hunt: Showdown 1896,extraction,2022-01-01,14143.18,32253,False
+594650,Hunt: Showdown 1896,extraction,2022-02-01,12756.16,24161,False
+594650,Hunt: Showdown 1896,extraction,2022-03-01,12864.37,33187,False
+594650,Hunt: Showdown 1896,extraction,2022-04-01,15427.34,32029,False
+594650,Hunt: Showdown 1896,extraction,2022-05-01,12686.3,23074,False
+594650,Hunt: Showdown 1896,extraction,2022-06-01,10935.75,21253,False
+594650,Hunt: Showdown 1896,extraction,2022-07-01,12903.91,38272,False
+594650,Hunt: Showdown 1896,extraction,2022-08-01,17302.44,33508,False
+594650,Hunt: Showdown 1896,extraction,2022-09-01,14536.8,27247,False
+594650,Hunt: Showdown 1896,extraction,2022-10-01,14840.36,31888,False
+594650,Hunt: Showdown 1896,extraction,2022-11-01,13325.87,28590,False
+594650,Hunt: Showdown 1896,extraction,2022-12-01,16946.73,36866,False
+594650,Hunt: Showdown 1896,extraction,2023-01-01,17933.41,31274,False
+594650,Hunt: Showdown 1896,extraction,2023-02-01,14291.44,27211,False
+594650,Hunt: Showdown 1896,extraction,2023-03-01,16156.94,32653,False
+594650,Hunt: Showdown 1896,extraction,2023-04-01,18902.74,35937,False
+594650,Hunt: Showdown 1896,extraction,2023-05-01,17646.09,34302,False
+594650,Hunt: Showdown 1896,extraction,2023-06-01,16079.08,44527,False
+594650,Hunt: Showdown 1896,extraction,2023-07-01,23526.31,43386,False
+594650,Hunt: Showdown 1896,extraction,2023-08-01,15384.33,32477,False
+594650,Hunt: Showdown 1896,extraction,2023-09-01,11377.59,20692,False
+594650,Hunt: Showdown 1896,extraction,2023-10-01,20157.17,41197,False
+594650,Hunt: Showdown 1896,extraction,2023-11-01,16732.1,29457,False
+594650,Hunt: Showdown 1896,extraction,2023-12-01,19556.4,39732,False
+594650,Hunt: Showdown 1896,extraction,2024-01-01,18002.02,33129,False
+594650,Hunt: Showdown 1896,extraction,2024-02-01,14263.35,27084,False
+594650,Hunt: Showdown 1896,extraction,2024-03-01,19535.19,38606,False
+594650,Hunt: Showdown 1896,extraction,2024-04-01,15562.39,29882,False
+594650,Hunt: Showdown 1896,extraction,2024-05-01,12706.15,24887,False
+594650,Hunt: Showdown 1896,extraction,2024-06-01,12747.79,24646,False
+594650,Hunt: Showdown 1896,extraction,2024-07-01,12734.48,23792,False
+594650,Hunt: Showdown 1896,extraction,2024-08-01,19541.33,59968,False
+594650,Hunt: Showdown 1896,extraction,2024-09-01,14776.05,30322,False
+594650,Hunt: Showdown 1896,extraction,2024-10-01,13788.64,29677,False
+594650,Hunt: Showdown 1896,extraction,2024-11-01,12439.28,25356,False
+594650,Hunt: Showdown 1896,extraction,2024-12-01,14692.83,34269,False
+594650,Hunt: Showdown 1896,extraction,2025-01-01,15081.26,27573,False
+594650,Hunt: Showdown 1896,extraction,2025-02-01,12411.76,26312,False
+594650,Hunt: Showdown 1896,extraction,2025-03-01,11878.76,32705,False
+594650,Hunt: Showdown 1896,extraction,2025-04-01,13772.57,28278,False
+594650,Hunt: Showdown 1896,extraction,2025-05-01,10278.54,23138,False
+594650,Hunt: Showdown 1896,extraction,2025-06-01,12467.92,34894,False
+594650,Hunt: Showdown 1896,extraction,2025-07-01,13622.57,26834,False
+594650,Hunt: Showdown 1896,extraction,2025-08-01,12833.65,24230,False
+594650,Hunt: Showdown 1896,extraction,2025-09-01,12306.18,34847,False
+594650,Hunt: Showdown 1896,extraction,2025-10-01,15743.6,32933,False
+594650,Hunt: Showdown 1896,extraction,2025-11-01,14216.61,30445,False
+594650,Hunt: Showdown 1896,extraction,2025-12-01,16211.44,40671,False
+594650,Hunt: Showdown 1896,extraction,2026-01-01,16990.69,35488,False
+594650,Hunt: Showdown 1896,extraction,2026-02-01,15787.36,32037,False
+594650,Hunt: Showdown 1896,extraction,2026-03-01,16743.07,41567,False
+594650,Hunt: Showdown 1896,extraction,2026-04-01,17260.83,37650,False
+594650,Hunt: Showdown 1896,extraction,2026-05-01,14915.52,31790,False
+594650,Hunt: Showdown 1896,extraction,2026-06-01,17760.79,43371,False
+594650,Hunt: Showdown 1896,extraction,2026-07-01,16067.57,33468,False
+594650,Hunt: Showdown 1896,extraction,2026-08-01,14903.9,30653,False
+594650,Hunt: Showdown 1896,extraction,2026-09-01,16764.7,39626,True
+868270,The Cycle: Frontier,extraction,2022-06-01,27067.14,40690,False
+868270,The Cycle: Frontier,extraction,2022-07-01,12199.03,25261,False
+868270,The Cycle: Frontier,extraction,2022-08-01,5152.48,9027,False
+868270,The Cycle: Frontier,extraction,2022-09-01,2852.3,7895,False
+868270,The Cycle: Frontier,extraction,2022-10-01,4338.99,8059,False
+868270,The Cycle: Frontier,extraction,2022-11-01,2364.81,4023,False
+868270,The Cycle: Frontier,extraction,2022-12-01,1514.19,2467,False
+868270,The Cycle: Frontier,extraction,2023-01-01,1525.67,2510,False
+868270,The Cycle: Frontier,extraction,2023-02-01,1610.03,2600,False
+868270,The Cycle: Frontier,extraction,2023-03-01,1781.62,8863,False
+868270,The Cycle: Frontier,extraction,2023-04-01,5469.92,10783,False
+868270,The Cycle: Frontier,extraction,2023-05-01,3124.53,5291,False
+868270,The Cycle: Frontier,extraction,2023-06-01,2061.03,3331,False
+868270,The Cycle: Frontier,extraction,2023-07-01,725.42,1599,False
+868270,The Cycle: Frontier,extraction,2023-08-01,359.61,661,False
+868270,The Cycle: Frontier,extraction,2023-09-01,231.69,691,False
+868270,The Cycle: Frontier,extraction,2023-10-01,6.75,16,False
+868270,The Cycle: Frontier,extraction,2023-11-01,5.94,22,False
+868270,The Cycle: Frontier,extraction,2023-12-01,3.53,13,False
+868270,The Cycle: Frontier,extraction,2024-01-01,4.21,15,False
+868270,The Cycle: Frontier,extraction,2024-02-01,4.84,12,False
+868270,The Cycle: Frontier,extraction,2024-03-01,2.45,8,False
+868270,The Cycle: Frontier,extraction,2024-04-01,1.89,6,False
+868270,The Cycle: Frontier,extraction,2024-07-01,1.79,5,False
+868270,The Cycle: Frontier,extraction,2024-08-01,1.52,5,False
+868270,The Cycle: Frontier,extraction,2024-09-01,1.42,4,False
+868270,The Cycle: Frontier,extraction,2024-10-01,1.52,5,False
+868270,The Cycle: Frontier,extraction,2024-11-01,1.66,5,False
+868270,The Cycle: Frontier,extraction,2024-12-01,1.82,5,False
+868270,The Cycle: Frontier,extraction,2025-01-01,1.82,5,False
+868270,The Cycle: Frontier,extraction,2025-04-01,1.99,5,False
+868270,The Cycle: Frontier,extraction,2025-05-01,1.62,4,False
+868270,The Cycle: Frontier,extraction,2025-07-01,1.96,6,False
+868270,The Cycle: Frontier,extraction,2025-11-01,2.26,6,False
+868270,The Cycle: Frontier,extraction,2025-12-01,2.76,8,False
+868270,The Cycle: Frontier,extraction,2026-01-01,2.58,9,False
+868270,The Cycle: Frontier,extraction,2026-02-01,2.36,6,False
+868270,The Cycle: Frontier,extraction,2026-03-01,1.5,6,False
+868270,The Cycle: Frontier,extraction,2026-04-01,1.61,6,False
+868270,The Cycle: Frontier,extraction,2026-07-01,1.15,3,False
+868270,The Cycle: Frontier,extraction,2026-08-01,1.1,3,False
+868270,The Cycle: Frontier,extraction,2026-09-01,1.07,3,True
+1172470,Apex Legends,fps,2020-11-01,74957.26,117193,False
+1172470,Apex Legends,fps,2020-12-01,64469.75,112076,False
+1172470,Apex Legends,fps,2021-01-01,71766.74,129928,False
+1172470,Apex Legends,fps,2021-02-01,120982.64,196799,False
+1172470,Apex Legends,fps,2021-03-01,126121.06,228439,False
+1172470,Apex Legends,fps,2021-04-01,124905.13,217728,False
+1172470,Apex Legends,fps,2021-05-01,164238.01,330879,False
+1172470,Apex Legends,fps,2021-06-01,136439.9,266591,False
+1172470,Apex Legends,fps,2021-07-01,131151.07,262129,False
+1172470,Apex Legends,fps,2021-08-01,169528.17,330476,False
+1172470,Apex Legends,fps,2021-09-01,139647.96,273617,False
+1172470,Apex Legends,fps,2021-10-01,128529.43,248669,False
+1172470,Apex Legends,fps,2021-11-01,136245.89,318330,False
+1172470,Apex Legends,fps,2021-12-01,122108.27,242823,False
+1172470,Apex Legends,fps,2022-01-01,145582.94,264287,False
+1172470,Apex Legends,fps,2022-02-01,203653.75,392998,False
+1172470,Apex Legends,fps,2022-03-01,183596.68,353623,False
+1172470,Apex Legends,fps,2022-04-01,192598.51,370651,False
+1172470,Apex Legends,fps,2022-05-01,195551.63,411183,False
+1172470,Apex Legends,fps,2022-06-01,177736.44,352659,False
+1172470,Apex Legends,fps,2022-07-01,183161.31,347314,False
+1172470,Apex Legends,fps,2022-08-01,230432.87,510286,False
+1172470,Apex Legends,fps,2022-09-01,221826.62,497242,False
+1172470,Apex Legends,fps,2022-10-01,172176.67,386994,False
+1172470,Apex Legends,fps,2022-11-01,172345.48,403157,False
+1172470,Apex Legends,fps,2022-12-01,170882.73,411891,False
+1172470,Apex Legends,fps,2023-01-01,197969.02,413670,False
+1172470,Apex Legends,fps,2023-02-01,257416.67,624473,False
+1172470,Apex Legends,fps,2023-03-01,255792.2,603290,False
+1172470,Apex Legends,fps,2023-04-01,222749.48,562634,False
+1172470,Apex Legends,fps,2023-05-01,227947.44,584294,False
+1172470,Apex Legends,fps,2023-06-01,189101.02,446463,False
+1172470,Apex Legends,fps,2023-07-01,166199.09,349762,False
+1172470,Apex Legends,fps,2023-08-01,188891.82,451223,False
+1172470,Apex Legends,fps,2023-09-01,186494.41,452991,False
+1172470,Apex Legends,fps,2023-10-01,181420.4,435229,False
+1172470,Apex Legends,fps,2023-11-01,167295.65,438349,False
+1172470,Apex Legends,fps,2023-12-01,144447.76,348791,False
+1172470,Apex Legends,fps,2024-01-01,146164.19,344621,False
+1172470,Apex Legends,fps,2024-02-01,185661.61,469431,False
+1172470,Apex Legends,fps,2024-03-01,189218.54,463933,False
+1172470,Apex Legends,fps,2024-04-01,166767.82,430800,False
+1172470,Apex Legends,fps,2024-05-01,167424.45,425742,False
+1172470,Apex Legends,fps,2024-06-01,139736.43,326928,False
+1172470,Apex Legends,fps,2024-07-01,116747.21,265369,False
+1172470,Apex Legends,fps,2024-08-01,120008.56,314327,False
+1172470,Apex Legends,fps,2024-09-01,107227.3,249334,False
+1172470,Apex Legends,fps,2024-10-01,85102.53,184035,False
+1172470,Apex Legends,fps,2024-11-01,91362.07,225795,False
+1172470,Apex Legends,fps,2024-12-01,74196.38,174720,False
+1172470,Apex Legends,fps,2025-01-01,69580.22,153693,False
+1172470,Apex Legends,fps,2025-02-01,95099.47,225810,False
+1172470,Apex Legends,fps,2025-03-01,90276.4,185193,False
+1172470,Apex Legends,fps,2025-04-01,106840.8,199349,False
+1172470,Apex Legends,fps,2025-05-01,134646.62,262219,False
+1172470,Apex Legends,fps,2025-06-01,106933.93,250796,False
+1172470,Apex Legends,fps,2025-07-01,90567.12,209736,False
+1172470,Apex Legends,fps,2025-08-01,101672.5,248781,False
+1172470,Apex Legends,fps,2025-09-01,83772.59,199203,False
+1172470,Apex Legends,fps,2025-10-01,73654.11,181156,False
+1172470,Apex Legends,fps,2025-11-01,89983.17,229804,False
+1172470,Apex Legends,fps,2025-12-01,78780.9,191112,False
+1172470,Apex Legends,fps,2026-01-01,86432.72,206450,False
+1172470,Apex Legends,fps,2026-02-01,88899.87,203439,False
+1172470,Apex Legends,fps,2026-03-01,111603.39,287202,False
+1172470,Apex Legends,fps,2026-04-01,124387.18,301520,False
+1172470,Apex Legends,fps,2026-05-01,128963.96,324964,False
+1172470,Apex Legends,fps,2026-06-01,104455.48,254117,False
+1172470,Apex Legends,fps,2026-07-01,97484.57,214120,False
+1172470,Apex Legends,fps,2026-08-01,127651.21,291356,False
+1172470,Apex Legends,fps,2026-09-01,117793.51,274970,True
+1808500,ARC Raiders,arc_raiders,2025-11-01,264429.58,459483,False
+1808500,ARC Raiders,arc_raiders,2025-12-01,229373.5,438427,False
+1808500,ARC Raiders,arc_raiders,2026-01-01,241196.68,465097,False
+1808500,ARC Raiders,arc_raiders,2026-02-01,171037.32,372367,False
+1808500,ARC Raiders,arc_raiders,2026-03-01,112312.2,250148,False
+1808500,ARC Raiders,arc_raiders,2026-04-01,75951.73,154498,False
+1808500,ARC Raiders,arc_raiders,2026-05-01,61053.58,120450,False
+1808500,ARC Raiders,arc_raiders,2026-06-01,35914.82,68130,False
+1808500,ARC Raiders,arc_raiders,2026-07-01,28661.58,50024,False
+1808500,ARC Raiders,arc_raiders,2026-08-01,23216.75,41319,False
+1808500,ARC Raiders,arc_raiders,2026-09-01,20730.13,36906,True
+2016590,Dark and Darker,extraction,2024-06-01,36938.29,57141,False
+2016590,Dark and Darker,extraction,2024-07-01,25772.33,39513,False
+2016590,Dark and Darker,extraction,2024-08-01,17214.08,30045,False
+2016590,Dark and Darker,extraction,2024-09-01,17015.34,31430,False
+2016590,Dark and Darker,extraction,2024-10-01,13760.3,23497,False
+2016590,Dark and Darker,extraction,2024-11-01,10732.8,17920,False
+2016590,Dark and Darker,extraction,2024-12-01,9794.96,26903,False
+2016590,Dark and Darker,extraction,2025-01-01,11704.79,17438,False
+2016590,Dark and Darker,extraction,2025-02-01,10857.34,16074,False
+2016590,Dark and Darker,extraction,2025-03-01,7597.27,12958,False
+2016590,Dark and Darker,extraction,2025-04-01,10666.9,21411,False
+2016590,Dark and Darker,extraction,2025-05-01,10225.17,16651,False
+2016590,Dark and Darker,extraction,2025-06-01,5316.79,11756,False
+2016590,Dark and Darker,extraction,2025-07-01,3038.18,5067,False
+2016590,Dark and Darker,extraction,2025-08-01,3340.69,8175,False
+2016590,Dark and Darker,extraction,2025-09-01,6660.74,16812,False
+2016590,Dark and Darker,extraction,2025-10-01,8955.13,13977,False
+2016590,Dark and Darker,extraction,2025-11-01,5655.8,9634,False
+2016590,Dark and Darker,extraction,2025-12-01,3960.42,6657,False
+2016590,Dark and Darker,extraction,2026-01-01,3513.08,11156,False
+2016590,Dark and Darker,extraction,2026-02-01,7380.47,11347,False
+2016590,Dark and Darker,extraction,2026-03-01,5887.5,10094,False
+2016590,Dark and Darker,extraction,2026-04-01,4674.43,11679,False
+2016590,Dark and Darker,extraction,2026-05-01,9081.55,14298,False
+2016590,Dark and Darker,extraction,2026-06-01,7010.78,12865,False
+2016590,Dark and Darker,extraction,2026-07-01,6835.65,14809,False
+2016590,Dark and Darker,extraction,2026-08-01,8187.96,13415,False
+2016590,Dark and Darker,extraction,2026-09-01,5125.65,9390,True
+2479810,Gray Zone Warfare,extraction,2024-05-01,21568.51,71503,False
+2479810,Gray Zone Warfare,extraction,2024-06-01,4280.44,12466,False
+2479810,Gray Zone Warfare,extraction,2024-07-01,1798.81,4092,False
+2479810,Gray Zone Warfare,extraction,2024-08-01,1107.39,2571,False
+2479810,Gray Zone Warfare,extraction,2024-09-01,815.67,1617,False
+2479810,Gray Zone Warfare,extraction,2024-10-01,682.7,1440,False
+2479810,Gray Zone Warfare,extraction,2024-11-01,1202.85,9013,False
+2479810,Gray Zone Warfare,extraction,2024-12-01,3393.33,9213,False
+2479810,Gray Zone Warfare,extraction,2025-01-01,2121.44,4563,False
+2479810,Gray Zone Warfare,extraction,2025-02-01,1678.19,3195,False
+2479810,Gray Zone Warfare,extraction,2025-03-01,1500.75,3003,False
+2479810,Gray Zone Warfare,extraction,2025-04-01,1469.06,2707,False
+2479810,Gray Zone Warfare,extraction,2025-05-01,4521.78,19567,False
+2479810,Gray Zone Warfare,extraction,2025-06-01,5815.56,15865,False
+2479810,Gray Zone Warfare,extraction,2025-07-01,2514.03,4967,False
+2479810,Gray Zone Warfare,extraction,2025-08-01,1734.9,3427,False
+2479810,Gray Zone Warfare,extraction,2025-09-01,1383.6,2706,False
+2479810,Gray Zone Warfare,extraction,2025-10-01,954.23,2004,False
+2479810,Gray Zone Warfare,extraction,2025-11-01,1064.95,2028,False
+2479810,Gray Zone Warfare,extraction,2025-12-01,965.92,1722,False
+2479810,Gray Zone Warfare,extraction,2026-01-01,1039.57,1990,False
+2479810,Gray Zone Warfare,extraction,2026-02-01,1135.01,2509,False
+2479810,Gray Zone Warfare,extraction,2026-03-01,3218.01,29790,False
+2479810,Gray Zone Warfare,extraction,2026-04-01,19106.15,43696,False
+2479810,Gray Zone Warfare,extraction,2026-05-01,7146.34,15543,False
+2479810,Gray Zone Warfare,extraction,2026-06-01,3984.86,7196,False
+2479810,Gray Zone Warfare,extraction,2026-07-01,3402.59,7219,False
+2479810,Gray Zone Warfare,extraction,2026-08-01,2367.83,4467,False
+2479810,Gray Zone Warfare,extraction,2026-09-01,1983.82,4241,True
+2507950,Delta Force,extraction_hybrid,2024-12-01,73013.21,118626,False
+2507950,Delta Force,extraction_hybrid,2025-01-01,73111.11,131036,False
+2507950,Delta Force,extraction_hybrid,2025-02-01,65654.06,130186,False
+2507950,Delta Force,extraction_hybrid,2025-03-01,53638.2,107585,False
+2507950,Delta Force,extraction_hybrid,2025-04-01,54864.73,131129,False
+2507950,Delta Force,extraction_hybrid,2025-05-01,74248.72,154488,False
+2507950,Delta Force,extraction_hybrid,2025-06-01,78939.86,161668,False
+2507950,Delta Force,extraction_hybrid,2025-07-01,99220.14,198619,False
+2507950,Delta Force,extraction_hybrid,2025-08-01,103143.78,210413,False
+2507950,Delta Force,extraction_hybrid,2025-09-01,107631.8,246418,False
+2507950,Delta Force,extraction_hybrid,2025-10-01,100516.2,233784,False
+2507950,Delta Force,extraction_hybrid,2025-11-01,90661.72,193962,False
+2507950,Delta Force,extraction_hybrid,2025-12-01,69896.05,163797,False
+2507950,Delta Force,extraction_hybrid,2026-01-01,66053.38,162739,False
+2507950,Delta Force,extraction_hybrid,2026-02-01,80318.97,160521,False
+2507950,Delta Force,extraction_hybrid,2026-03-01,76590.08,168712,False
+2507950,Delta Force,extraction_hybrid,2026-04-01,78981.3,171344,False
+2507950,Delta Force,extraction_hybrid,2026-05-01,83517.75,183559,False
+2507950,Delta Force,extraction_hybrid,2026-06-01,67691.26,149617,False
+2507950,Delta Force,extraction_hybrid,2026-07-01,71626.58,143820,False
+2507950,Delta Force,extraction_hybrid,2026-08-01,63692.97,131021,False
+2507950,Delta Force,extraction_hybrid,2026-09-01,64040.09,145637,True
+2807960,Battlefield 6,fps,2025-10-01,311140.31,656067,False
+2807960,Battlefield 6,fps,2025-11-01,223407.41,563989,False
+2807960,Battlefield 6,fps,2025-12-01,89597.27,184814,False
+2807960,Battlefield 6,fps,2026-01-01,56525.43,121241,False
+2807960,Battlefield 6,fps,2026-02-01,44957.83,95926,False
+2807960,Battlefield 6,fps,2026-03-01,37785.28,72531,False
+2807960,Battlefield 6,fps,2026-04-01,31779.69,60634,False
+2807960,Battlefield 6,fps,2026-05-01,37553.26,80250,False
+2807960,Battlefield 6,fps,2026-06-01,33752.34,64869,False
+2807960,Battlefield 6,fps,2026-07-01,40120.35,84038,False
+2807960,Battlefield 6,fps,2026-08-01,42861.17,79822,False
+2807960,Battlefield 6,fps,2026-09-01,32889.5,62775,True
+3065800,Marathon,extraction,2026-03-01,35040.09,77358,False
+3065800,Marathon,extraction,2026-04-01,15832.82,36173,False
+3065800,Marathon,extraction,2026-05-01,8224.12,17050,False
+3065800,Marathon,extraction,2026-06-01,11441.78,40370,False
+3065800,Marathon,extraction,2026-07-01,4749.15,14699,False
+3065800,Marathon,extraction,2026-08-01,2827.38,6296,False
+3065800,Marathon,extraction,2026-09-01,2018.15,3772,True
+3932890,Escape from Tarkov,extraction,2025-11-01,27105.05,42711,False
+3932890,Escape from Tarkov,extraction,2025-12-01,23627.01,39442,False
+3932890,Escape from Tarkov,extraction,2026-01-01,19297.42,35280,False
+3932890,Escape from Tarkov,extraction,2026-02-01,13259.83,22982,False
+3932890,Escape from Tarkov,extraction,2026-03-01,11524.61,20849,False
+3932890,Escape from Tarkov,extraction,2026-04-01,11341.9,20032,False
+3932890,Escape from Tarkov,extraction,2026-05-01,12779.3,28503,False
+3932890,Escape from Tarkov,extraction,2026-06-01,16986.51,31530,False
+3932890,Escape from Tarkov,extraction,2026-07-01,18826.55,32946,False
+3932890,Escape from Tarkov,extraction,2026-08-01,26825.39,45572,False
+3932890,Escape from Tarkov,extraction,2026-09-01,22340.7,42072,True

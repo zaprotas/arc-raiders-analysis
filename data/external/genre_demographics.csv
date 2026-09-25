@@ -1,0 +1,15 @@
+dimension,segment,value,unit,scope,year,source,source_url,note
+gender,female share - First-Person Shooter,7.2,pct of players,genre (FPS),2017,Quantic Foundry (n>270 mil),https://quanticfoundry.com/2017/01/19/female-gamers-by-genre/,pesquisa antiga; usar como ordem de grandeza
+gender,female share - Tactical Shooter,4.3,pct of players,genre (tactical shooter),2017,Quantic Foundry (n>270 mil),https://quanticfoundry.com/2017/01/19/female-gamers-by-genre/,pesquisa antiga; usar como ordem de grandeza
+age,average player age,37,years,US all players,2026,ESA Essential Facts 2026 (n=13.545),https://www.theesa.com/two-thirds-of-americans-play-video-games-every-week-according-tonew-report-from-the-entertainment-software-association/,todos os gêneros
+gender,men who play weekly,53,pct,US all players,2026,ESA Essential Facts 2026 (n=13.545),https://www.theesa.com/two-thirds-of-americans-play-video-games-every-week-according-tonew-report-from-the-entertainment-software-association/,todos os gêneros
+gender,women who play weekly,46,pct,US all players,2026,ESA Essential Facts 2026 (n=13.545),https://www.theesa.com/two-thirds-of-americans-play-video-games-every-week-according-tonew-report-from-the-entertainment-software-association/,todos os gêneros
+age,shooter preference ages 62-90,<10,pct,US players 62-90,2026,ESA Essential Facts 2026 (via imprensa),https://www.theesa.com/two-thirds-of-americans-play-video-games-every-week-according-tonew-report-from-the-entertainment-software-association/,"ação e tiro ficam em um dígito nessa faixa"
+platform,shooter preference among console players,60,pct,US console players,2026,ESA Essential Facts 2026 (via SQ Magazine),https://sqmagazine.co.uk/video-games-industry-statistics/,confirmar no relatório original
+platform,PC players worldwide,936,million,global,2025,Newzoo (via ShaneTheGamer/Virtwave),https://www.shanethegamer.com/research/gamer-demographics-research/,agregadores divergem; conferir no relatório Newzoo
+platform,console players worldwide,645,million,global,2025,Newzoo (via ShaneTheGamer/Virtwave),https://www.shanethegamer.com/research/gamer-demographics-research/,agregadores divergem; conferir no relatório Newzoo
+payer_profile,average paying player age (US),33.6,years,US paying players,2025,Newzoo (via ShaneTheGamer),https://www.shanethegamer.com/research/gamer-demographics-research/,
+payer_profile,male share of paying players (US),57,pct,US paying players,2025,Newzoo (via ShaneTheGamer),https://www.shanethegamer.com/research/gamer-demographics-research/,
+payer_profile,ARPPU North America,324.9,USD per year,North America paying players,2025,Newzoo (via ShaneTheGamer),https://www.shanethegamer.com/research/gamer-demographics-research/,útil para projeção de skins
+payer_profile,ARPPU Western Europe,170,USD per year,Western Europe paying players,2025,Newzoo (via ShaneTheGamer),https://www.shanethegamer.com/research/gamer-demographics-research/,útil para projeção de skins
+payer_profile,ARPPU Eastern Europe,51.6,USD per year,Eastern Europe paying players,2025,Newzoo (via ShaneTheGamer),https://www.shanethegamer.com/research/gamer-demographics-research/,útil para projeção de skins

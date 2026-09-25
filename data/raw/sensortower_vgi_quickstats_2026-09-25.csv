@@ -1,0 +1,14 @@
+game,steam_appid,subgenre_group,release_date,price_usd,ccu_now,ccu_24h_peak,positive_reviews_pct,premium_revenue_usd,units_sold,units_paid,avg_playtime_h,median_playtime_h,source_url,collected_at
+ARC Raiders,1808500,extraction,2025-10-30,39.99,15916,27960,81.8,266200000,8700000,8700000,90.1,38.8,https://app.sensortower.com/vgi/game/arc-raiders,2026-09-25
+Escape from Tarkov,,extraction,2025-11-15,49.99,29147,31185,49.4,39500000,1100000,1100000,190.3,49.4,https://app.sensortower.com/vgi/game/escape-from-tarkov,2026-09-25
+Hunt: Showdown 1896,594650,extraction,2018-02-22,29.99,23749,27520,73.7,160700000,6900000,6900000,147.0,13.0,https://app.sensortower.com/vgi/game/hunt-showdown-1896,2026-09-25
+Marathon,,extraction,2026-03-05,39.99,1265,3061,76.6,33600000,1100000,1100000,62.3,20.7,https://app.sensortower.com/vgi/game/marathon,2026-09-25
+Dark and Darker,2016590,extraction,2024-06-07,,4877,5061,65.1,,6900000,,42.4,3.1,https://app.sensortower.com/vgi/game/dark-and-darker,2026-09-25
+The Cycle: Frontier,868270,extraction,2022-06-08,,1,2,64.2,,1400000,,18.2,1.7,https://app.sensortower.com/vgi/game/the-cycle-frontier,2026-09-25
+Gray Zone Warfare,2479810,extraction,2024-04-30,,1414,1783,72.4,45000000,1600000,1600000,50.5,16.9,https://app.sensortower.com/vgi/game/gray-zone-warfare,2026-09-25
+Delta Force,2507950,extraction_hybrid,2024-12-04,,108000,124000,57.7,,14300000,,82.7,4.0,https://app.sensortower.com/vgi/game/delta-force,2026-09-25
+Counter-Strike 2,730,fps,2012-08-21,,1100000,1400000,85.8,543700000,100100000,50400000,575.4,85.3,https://app.sensortower.com/vgi/game/counter-strike-2,2026-09-25
+Apex Legends,1172470,fps,2020-11-05,,196000,238000,67.8,,30100000,,238.0,12.6,https://app.sensortower.com/vgi/game/apex-legends,2026-09-25
+PUBG: Battlegrounds,578080,fps,2017-03-23,,550000,673000,60.0,1200000000,62000000,53400000,340.3,39.5,https://app.sensortower.com/vgi/game/pubg-battlegrounds,2026-09-25
+Battlefield 6,,fps,2025-10-10,,27743,34581,63.8,639800000,12000000,12000000,53.3,16.7,https://app.sensortower.com/vgi/game/battlefield-6,2026-09-25
+Tom Clancy's Rainbow Six Siege,359550,fps,2015-12-01,,50373,79102,82.1,284200000,22300000,20800000,219.5,29.5,https://app.sensortower.com/vgi/game/tom-clancy-s-rainbow-six-siege,2026-09-25
