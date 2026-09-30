@@ -1,0 +1,158 @@
+{
+  "escolha_k": [
+    {
+      "k": 2,
+      "inercia": 751718.5921,
+      "silhueta": 0.3513
+    },
+    {
+      "k": 3,
+      "inercia": 512700.177,
+      "silhueta": 0.3614
+    },
+    {
+      "k": 4,
+      "inercia": 376558.9519,
+      "silhueta": 0.369
+    },
+    {
+      "k": 5,
+      "inercia": 315087.0128,
+      "silhueta": 0.3471
+    },
+    {
+      "k": 6,
+      "inercia": 261710.0679,
+      "silhueta": 0.3397
+    },
+    {
+      "k": 7,
+      "inercia": 226133.4178,
+      "silhueta": 0.3499
+    },
+    {
+      "k": 8,
+      "inercia": 197906.3237,
+      "silhueta": 0.3512
+    }
+  ],
+  "k": 4,
+  "perfil": {
+    "Veteranos ativos": {
+      "autores": 110775,
+      "R": 38.0,
+      "F": 11.54,
+      "E": 435.23,
+      "ativos_2sem_pct": 35.2,
+      "positivas_pct": 80.0,
+      "R_score": 4.2,
+      "F_score": 4.2,
+      "E_score": 4.7,
+      "pct_autores": 26.58
+    },
+    "Veteranos que abandonaram": {
+      "autores": 123746,
+      "R": 228.0,
+      "F": 9.66,
+      "E": 126.33,
+      "ativos_2sem_pct": 0.0,
+      "positivas_pct": 83.98,
+      "R_score": 1.67,
+      "F_score": 3.88,
+      "E_score": 2.87,
+      "pct_autores": 29.69
+    },
+    "Casuais persistentes": {
+      "autores": 113707,
+      "R": 65.0,
+      "F": 3.31,
+      "E": 113.75,
+      "ativos_2sem_pct": 17.65,
+      "positivas_pct": 85.61,
+      "R_score": 3.96,
+      "F_score": 1.86,
+      "E_score": 2.64,
+      "pct_autores": 27.28
+    },
+    "Desistiram cedo": {
+      "autores": 68552,
+      "R": 225.0,
+      "F": 1.67,
+      "E": 21.57,
+      "ativos_2sem_pct": 0.46,
+      "positivas_pct": 74.38,
+      "R_score": 1.88,
+      "F_score": 1.36,
+      "E_score": 1.09,
+      "pct_autores": 16.45
+    }
+  },
+  "notas_rfe_medias": {
+    "Casuais persistentes": {
+      "R_score": 3.96,
+      "F_score": 1.86,
+      "E_score": 2.64,
+      "RFE": 8.46
+    },
+    "Desistiram cedo": {
+      "R_score": 1.88,
+      "F_score": 1.36,
+      "E_score": 1.09,
+      "RFE": 4.33
+    },
+    "Veteranos ativos": {
+      "R_score": 4.2,
+      "F_score": 4.2,
+      "E_score": 4.7,
+      "RFE": 13.09
+    },
+    "Veteranos que abandonaram": {
+      "R_score": 1.67,
+      "F_score": 3.88,
+      "E_score": 2.87,
+      "RFE": 8.42
+    }
+  },
+  "reclamacoes_por_grupo_pct": {
+    "Casuais persistentes": {
+      "Cheaters e hackers": 13.6,
+      "Ratos, campers e traição": 22.3,
+      "Bugs, travamentos e servidores": 12.3,
+      "Exploits e duplicação de itens": 2.7,
+      "Falta de PvE / excesso de PvP": 23.3,
+      "Falta de conteúdo e jogo abandonado": 4.5,
+      "Balanceamento (nerfs e buffs)": 5.0,
+      "Pareamento (matchmaking)": 13.0
+    },
+    "Desistiram cedo": {
+      "Cheaters e hackers": 4.6,
+      "Ratos, campers e traição": 13.8,
+      "Bugs, travamentos e servidores": 8.8,
+      "Exploits e duplicação de itens": 0.5,
+      "Falta de PvE / excesso de PvP": 16.6,
+      "Falta de conteúdo e jogo abandonado": 4.9,
+      "Balanceamento (nerfs e buffs)": 2.1,
+      "Pareamento (matchmaking)": 5.4
+    },
+    "Veteranos ativos": {
+      "Cheaters e hackers": 33.5,
+      "Ratos, campers e traição": 20.1,
+      "Bugs, travamentos e servidores": 15.8,
+      "Exploits e duplicação de itens": 7.3,
+      "Falta de PvE / excesso de PvP": 21.0,
+      "Falta de conteúdo e jogo abandonado": 5.7,
+      "Balanceamento (nerfs e buffs)": 7.3,
+      "Pareamento (matchmaking)": 15.5
+    },
+    "Veteranos que abandonaram": {
+      "Cheaters e hackers": 10.9,
+      "Ratos, campers e traição": 24.7,
+      "Bugs, travamentos e servidores": 14.3,
+      "Exploits e duplicação de itens": 3.6,
+      "Falta de PvE / excesso de PvP": 23.0,
+      "Falta de conteúdo e jogo abandonado": 4.6,
+      "Balanceamento (nerfs e buffs)": 6.9,
+      "Pareamento (matchmaking)": 10.2
+    }
+  }
+}
