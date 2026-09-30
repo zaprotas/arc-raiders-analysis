@@ -214,12 +214,11 @@ def fig_timeline_by_cluster(d: pd.DataFrame, order: list):
     return style.save(fig, "09d_grupos_no_tempo")
 
 
-def main():
+def main(k: int = 4):
     style.apply()
     d = build_features()
     X = model_matrix(d)
     t = choose_k(X)
-    k = int(sys.argv[1]) if len(sys.argv) > 1 else 4
     d["cluster"] = KMeans(n_clusters=k, n_init=10, random_state=SEED).fit_predict(X)
     prof = profile_clusters(d)
     names = name_clusters(prof)
@@ -245,4 +244,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(int(sys.argv[1]) if len(sys.argv) > 1 else 4)
