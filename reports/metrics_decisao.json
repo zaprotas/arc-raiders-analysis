@@ -1,0 +1,106 @@
+{
+  "premissas_custo": {
+    "headcount_invest": [
+      150,
+      250
+    ],
+    "headcount_min": [
+      30,
+      60
+    ],
+    "cost_per_head_usd": [
+      95000,
+      135000
+    ],
+    "overhead": [
+      1.3,
+      1.6
+    ]
+  },
+  "resumo": {
+    "base": {
+      "receita_investir": [
+        87.3,
+        126.8,
+        183.3
+      ],
+      "custo_investir": [
+        25.5,
+        32.7,
+        41.7
+      ],
+      "lucro_investir": [
+        53.2,
+        94.1,
+        150.9
+      ],
+      "lucro_minimo": [
+        18.2,
+        26.4,
+        36.3
+      ],
+      "ganho_incremental": [
+        30.3,
+        67.4,
+        119.9
+      ],
+      "prob_ganho_incremental_positivo": 1.0,
+      "roi_incremental_mediano": 2.68
+    },
+    "pessimista": {
+      "receita_investir": [
+        32.0,
+        48.8,
+        74.1
+      ],
+      "custo_investir": [
+        25.5,
+        32.7,
+        41.7
+      ],
+      "lucro_investir": [
+        -3.0,
+        16.3,
+        42.1
+      ],
+      "lucro_minimo": [
+        4.7,
+        11.1,
+        19.9
+      ],
+      "ganho_incremental": [
+        -10.2,
+        4.8,
+        25.1
+      ],
+      "prob_ganho_incremental_positivo": 0.643,
+      "roi_incremental_mediano": 0.19
+    }
+  },
+  "limite": {
+    "limite_jan27": 19000.0,
+    "curva": {
+      "11000": 0.0,
+      "13000": 0.007,
+      "15000": 0.164,
+      "17000": 0.46,
+      "19000": 0.789,
+      "21000": 0.953,
+      "23000": 0.994,
+      "25000": 0.998,
+      "27000": 1.0,
+      "29000": 1.0,
+      "31000": 1.0,
+      "33000": 1.0,
+      "35000": 1.0,
+      "37000": 1.0,
+      "39000": 1.0,
+      "41000": 1.0,
+      "43000": 1.0,
+      "45000": 1.0,
+      "47000": 1.0,
+      "49000": 1.0,
+      "51000": 1.0
+    }
+  }
+}
