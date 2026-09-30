@@ -1,0 +1,289 @@
+{
+  "calibracao": {
+    "eventos": 45,
+    "alta_mediana": 0.562,
+    "alta_p25_p75": [
+      0.341,
+      0.994
+    ],
+    "retido_mediano": 0.684,
+    "retido_p25_p75": [
+      0.096,
+      1.363
+    ],
+    "nivel_3m_vs_antes_mediano": 0.263
+  },
+  "tarkov_intervalo_mediano_picos_meses": 6.0,
+  "premissas": {
+    "decline": {
+      "min": 0.1,
+      "max": 0.2,
+      "etiqueta": "P",
+      "descricao": "queda mensal sem novidade (jul-set/26: -20%, -19%, -11%)"
+    },
+    "bump": {
+      "min": 0.4,
+      "max": 1.5,
+      "etiqueta": "G",
+      "descricao": "alta de jogadores no mês de grande atualização"
+    },
+    "retained": {
+      "min": 0.45,
+      "max": 0.9,
+      "etiqueta": "G",
+      "descricao": "fração da alta que continua 3 meses depois"
+    },
+    "veteran_return": {
+      "min": 0.05,
+      "max": 0.15,
+      "etiqueta": "P",
+      "descricao": "veteranos que abandonaram e voltam no Frozen Trail"
+    },
+    "pve_launch_bump": {
+      "min": 0.1,
+      "max": 0.4,
+      "etiqueta": "P",
+      "descricao": "alta extra de jogadores cooperativos no lançamento do PvE"
+    },
+    "pve_adoption": {
+      "min": 0.25,
+      "max": 0.45,
+      "etiqueta": "G",
+      "descricao": "parcela dos jogadores que adota o modo PvE"
+    },
+    "pve_retention": {
+      "min": 0.0,
+      "max": 0.25,
+      "etiqueta": "G",
+      "descricao": "redução da queda mensal entre quem joga PvE"
+    },
+    "pvp_loss": {
+      "min": 0.0,
+      "max": 0.1,
+      "etiqueta": "P",
+      "descricao": "perda única de jogadores só-PvP quando o PvE chega"
+    },
+    "skin_conversion": {
+      "min": 0.05,
+      "max": 0.15,
+      "etiqueta": "G",
+      "descricao": "jogadores ativos no mês que compram skins"
+    },
+    "skin_spend": {
+      "min": 5.0,
+      "max": 15.0,
+      "etiqueta": "G",
+      "descricao": "gasto mensal por comprador de skins (US$)"
+    },
+    "skin_loss": {
+      "min": 0.1,
+      "max": 0.4,
+      "etiqueta": "P",
+      "descricao": "desconto na conversão por skins serem perdidas ao morrer"
+    },
+    "mau_ratio": {
+      "min": 20.0,
+      "max": 30.0,
+      "etiqueta": "P",
+      "descricao": "jogadores ativos no mês por jogador simultâneo médio (Nexon: 6 mi semanais ≈ 17x)"
+    },
+    "store_rate": {
+      "min": 0.7,
+      "max": 1.3,
+      "etiqueta": "E",
+      "descricao": "gasto na loja por jogador-mês, fator sobre o 3º tri/26"
+    },
+    "net_per_unit": {
+      "min": 21.0,
+      "max": 32.0,
+      "etiqueta": "E",
+      "descricao": "receita líquida por unidade vendida (US$)"
+    }
+  },
+  "variantes": {
+    "base": {
+      "decline_slowdown": 0.15,
+      "decline_floor": 0.03,
+      "overrides": {}
+    },
+    "pessimista": {
+      "decline_slowdown": 0.0,
+      "decline_floor": 0.0,
+      "overrides": {
+        "retained": [
+          0.2,
+          0.45
+        ]
+      }
+    }
+  },
+  "cenarios_2027": [
+    {
+      "cenario": "S0",
+      "nome": "Sem ação",
+      "units_med": 14.14,
+      "store_med": 19.47,
+      "skins_med": 0.0,
+      "total_p10": 26.08,
+      "total_med": 33.76,
+      "total_p90": 43.42,
+      "jogadores_media_2027": 9417.65,
+      "jogadores_dez27": 7635.88,
+      "prob_dez27_acima_set26": 0.0
+    },
+    {
+      "cenario": "S1",
+      "nome": "Atualizações semestrais",
+      "units_med": 42.42,
+      "store_med": 58.34,
+      "skins_med": 0.0,
+      "total_p10": 70.57,
+      "total_med": 101.5,
+      "total_p90": 144.74,
+      "jogadores_media_2027": 28303.21,
+      "jogadores_dez27": 28528.78,
+      "prob_dez27_acima_set26": 0.85
+    },
+    {
+      "cenario": "S2",
+      "nome": "+ modo PvE",
+      "units_med": 48.77,
+      "store_med": 66.86,
+      "skins_med": 0.0,
+      "total_p10": 80.1,
+      "total_med": 116.67,
+      "total_p90": 168.01,
+      "jogadores_media_2027": 32533.64,
+      "jogadores_dez27": 33235.53,
+      "prob_dez27_acima_set26": 0.94
+    },
+    {
+      "cenario": "S3",
+      "nome": "+ skins de armas",
+      "units_med": 48.77,
+      "store_med": 66.86,
+      "skins_med": 9.64,
+      "total_p10": 87.28,
+      "total_med": 126.82,
+      "total_p90": 183.28,
+      "jogadores_media_2027": 32533.64,
+      "jogadores_dez27": 33235.53,
+      "prob_dez27_acima_set26": 0.94
+    }
+  ],
+  "cenarios_2027_pessimista": [
+    {
+      "cenario": "S0",
+      "nome": "Sem ação",
+      "units_med": 7.75,
+      "store_med": 10.65,
+      "skins_med": 0.0,
+      "total_p10": 12.62,
+      "total_med": 18.54,
+      "total_p90": 27.16,
+      "jogadores_media_2027": 5147.68,
+      "jogadores_dez27": 1804.7,
+      "prob_dez27_acima_set26": 0.0
+    },
+    {
+      "cenario": "S1",
+      "nome": "Atualizações semestrais",
+      "units_med": 16.71,
+      "store_med": 23.01,
+      "skins_med": 0.0,
+      "total_p10": 26.37,
+      "total_med": 39.87,
+      "total_p90": 60.2,
+      "jogadores_media_2027": 11159.19,
+      "jogadores_dez27": 5086.86,
+      "prob_dez27_acima_set26": 0.0
+    },
+    {
+      "cenario": "S2",
+      "nome": "+ modo PvE",
+      "units_med": 18.8,
+      "store_med": 25.76,
+      "skins_med": 0.0,
+      "total_p10": 29.3,
+      "total_med": 44.81,
+      "total_p90": 68.1,
+      "jogadores_media_2027": 12518.74,
+      "jogadores_dez27": 6028.22,
+      "prob_dez27_acima_set26": 0.0
+    },
+    {
+      "cenario": "S3",
+      "nome": "+ skins de armas",
+      "units_med": 18.8,
+      "store_med": 25.76,
+      "skins_med": 3.71,
+      "total_p10": 32.0,
+      "total_med": 48.84,
+      "total_p90": 74.11,
+      "jogadores_media_2027": 12518.74,
+      "jogadores_dez27": 6028.22,
+      "prob_dez27_acima_set26": 0.0
+    }
+  ],
+  "cenarios_out_dez_2026": [
+    {
+      "cenario": "S0",
+      "nome": "Sem ação",
+      "units_med": 5.87,
+      "store_med": 8.14,
+      "skins_med": 0.0,
+      "total_p10": 11.76,
+      "total_med": 14.0,
+      "total_p90": 16.44,
+      "jogadores_media_2027": 15561.31,
+      "jogadores_dez27": 7635.88,
+      "prob_dez27_acima_set26": 0.0
+    },
+    {
+      "cenario": "S1",
+      "nome": "Atualizações semestrais",
+      "units_med": 13.89,
+      "store_med": 19.14,
+      "skins_med": 0.0,
+      "total_p10": 25.46,
+      "total_med": 33.21,
+      "total_p90": 42.69,
+      "jogadores_media_2027": 37103.1,
+      "jogadores_dez27": 28528.78,
+      "prob_dez27_acima_set26": 0.85
+    },
+    {
+      "cenario": "S2",
+      "nome": "+ modo PvE",
+      "units_med": 13.89,
+      "store_med": 19.14,
+      "skins_med": 0.0,
+      "total_p10": 25.46,
+      "total_med": 33.21,
+      "total_p90": 42.69,
+      "jogadores_media_2027": 37103.1,
+      "jogadores_dez27": 33235.53,
+      "prob_dez27_acima_set26": 0.94
+    },
+    {
+      "cenario": "S3",
+      "nome": "+ skins de armas",
+      "units_med": 13.89,
+      "store_med": 19.14,
+      "skins_med": 2.76,
+      "total_p10": 27.8,
+      "total_med": 36.17,
+      "total_p90": 46.44,
+      "jogadores_media_2027": 37103.1,
+      "jogadores_dez27": 33235.53,
+      "prob_dez27_acima_set26": 0.94
+    }
+  ],
+  "skins_2027_usd_mi": [
+    4.692280395220504,
+    9.64083688033178,
+    18.738089480081364
+  ],
+  "pve_parcela_dez27_mediana": 0.4520074702044337,
+  "frozen_trail_mes_jogadores_mediana": 42068.08233875368
+}
